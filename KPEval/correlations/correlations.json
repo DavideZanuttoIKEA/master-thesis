@@ -1,0 +1,62 @@
+{
+    "ext_sick": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.7911801009408739,
+            "spearman": 0.7648213798502626,
+            "kendall": 0.5857204241457932
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.839704263756955,
+            "spearman": 0.8068091767039355,
+            "kendall": 0.6336275193867297
+        }
+    },
+    "tsv_semEval2012": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.631977286683405,
+            "spearman": 0.5435187900836478,
+            "kendall": 0.40139774282624
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.7345647531478439,
+            "spearman": 0.671276355495563,
+            "kendall": 0.5074801841697719
+        }
+    },
+    "tsv_semEval2013": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.8006274428402385,
+            "spearman": 0.7991037629127496,
+            "kendall": 0.6126221218626815
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.8347274696046987,
+            "spearman": 0.8299527436911734,
+            "kendall": 0.6469339201773228
+        }
+    },
+    "tsv_semEval2014": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.7527780767122054,
+            "spearman": 0.7289191794423113,
+            "kendall": 0.5470013736171789
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.8313772735565181,
+            "spearman": 0.8013452030131717,
+            "kendall": 0.6184891523403134
+        }
+    },
+    "word_interchangeability": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.6846806159838774,
+            "spearman": 0.6504668573357684,
+            "kendall": 0.46038642093952714
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.6858451324041248,
+            "spearman": 0.6702847572888931,
+            "kendall": 0.4786116546341079
+        }
+    }
+}
