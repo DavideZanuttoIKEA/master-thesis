@@ -1,0 +1,215 @@
+embeddings_89386107.csv.pkl: good building experience
+embeddings_70538846.csv.pkl: easy wire access
+embeddings_415599.csv.pkl: Perfect for storage
+embeddings_29481683.csv.pkl: functional
+embeddings_29442663.csv.pkl: durable
+embeddings_50324511.csv.pkl: beloved by the child
+embeddings_70301542.csv.pkl: fits 13x13 boxes
+embeddings_40501892.csv.pkl: Excellent for Kallax book
+embeddings_39329384.csv.pkl: finished product
+embeddings_80401292.csv.pkl: Kallax system
+embeddings_39442686.csv.pkl: Aesthetically pleasing
+embeddings_99017445.csv.pkl: Very sturdy bookshelf
+embeddings_20454504.csv.pkl: bit expensive
+embeddings_90495596.csv.pkl: brings unit off floor
+embeddings_501889.csv.pkl: adds class
+embeddings_49294529.csv.pkl: easy to put together
+embeddings_50334591.csv.pkl: Difficult to assemble
+embeddings_79278250.csv.pkl: Space saving
+embeddings_60278170.csv.pkl: great protection
+embeddings_70339291.csv.pkl: small bedroom
+embeddings_79294523.csv.pkl: tricky assembly
+embeddings_89278259.csv.pkl: Perfect size
+embeddings_9442640.csv.pkl: Perfect size
+embeddings_49285817.csv.pkl: working hardware
+embeddings_90510865.csv.pkl: Perfect
+embeddings_40415601.csv.pkl: sturdy
+embeddings_49481658.csv.pkl: glad I bought
+embeddings_40346924.csv.pkl: please with look
+embeddings_59902658.csv.pkl: often out of stock
+embeddings_29278304.csv.pkl: Installing doors and drawers
+embeddings_19490273.csv.pkl: struggles to assemble
+embeddings_29481659.csv.pkl: versatile
+embeddings_10324513.csv.pkl: Great color
+embeddings_89294532.csv.pkl: changes room vibe
+embeddings_89442679.csv.pkl: Great case
+embeddings_79442694.csv.pkl: Makes room airier
+embeddings_79278293.csv.pkl: sturdy
+embeddings_19442710.csv.pkl: good value for money
+embeddings_10409932.csv.pkl: Very sturdy
+embeddings_275848.csv.pkl: extra storage space
+embeddings_9442720.csv.pkl: smooth finish
+embeddings_69329387.csv.pkl: Frustrating item
+embeddings_50339292.csv.pkl: product itself
+embeddings_19285833.csv.pkl: easy to put together
+embeddings_39278290.csv.pkl: flexibility
+embeddings_59442713.csv.pkl: unevenly painted
+embeddings_69481681.csv.pkl: Stores much
+embeddings_19278328.csv.pkl: Easiest thing to put together
+embeddings_99294517.csv.pkl: easy to assemble
+embeddings_49294548.csv.pkl: used as TV stand
+embeddings_79285830.csv.pkl: looks great
+embeddings_80428852.csv.pkl: Works great
+embeddings_20275814.csv.pkl: Great for small spaces
+embeddings_39017486.csv.pkl: cabinet and drawers installation
+embeddings_324518.csv.pkl: increased surface area
+embeddings_20213312.csv.pkl: neat
+embeddings_79294542.csv.pkl: Not stable
+embeddings_9442621.csv.pkl: dog grooming table
+embeddings_80512959.csv.pkl: considering purchasing another one
+embeddings_79521356.csv.pkl: Great purchase
+embeddings_90305803.csv.pkl: perfect height
+embeddings_40334558.csv.pkl: Great quality
+embeddings_19931865.csv.pkl: fits various decors
+embeddings_20510864.csv.pkl: Nice looking
+embeddings_60221683.csv.pkl: sturdy
+embeddings_99442645.csv.pkl: affordable price
+embeddings_50454507.csv.pkl: Oak appearance
+embeddings_89285820.csv.pkl: quick assembly
+embeddings_10345073.csv.pkl: securely attached
+embeddings_10487816.csv.pkl: Record player fit
+embeddings_40303439.csv.pkl: Love this shelving unit
+embeddings_70309840.csv.pkl: Base on legs
+embeddings_9189200.csv.pkl: base pieces
+embeddings_40314640.csv.pkl: returning the units
+embeddings_59481653.csv.pkl: Great craft setup
+embeddings_59189127.csv.pkl: had to hit down with a hammer
+embeddings_9442616.csv.pkl: love it
+embeddings_9442664.csv.pkl: Available
+embeddings_9481684.csv.pkl: recommend
+embeddings_19442654.csv.pkl: (No additional characteristics or sentiments given in the sentence)
+embeddings_19278253.csv.pkl: versatile
+embeddings_59278307.csv.pkl: great configuration
+embeddings_314642.csv.pkl: Great drawers
+embeddings_90286649.csv.pkl: for craft room
+embeddings_40311873.csv.pkl: Exactly as expected
+embeddings_20423720.csv.pkl: approx.
+embeddings_10305741.csv.pkl: glossy white unit
+embeddings_89442655.csv.pkl: sturdy
+embeddings_9294526.csv.pkl: Perfect size
+embeddings_80334603.csv.pkl: broke irreparably
+embeddings_49336341.csv.pkl: easy to assemble
+embeddings_59442685.csv.pkl: easy to assemble
+embeddings_10305802.csv.pkl: perfect style
+embeddings_79442627.csv.pkl: 15 minutes assembly
+embeddings_50305739.csv.pkl: High end
+embeddings_79552908.csv.pkl: get organized
+embeddings_49442718.csv.pkl: sturdy base
+embeddings_90562166.csv.pkl: back panel
+embeddings_9017483.csv.pkl: wooden pegs
+embeddings_89307643.csv.pkl: roomy
+embeddings_90428842.csv.pkl: Impossible assembly
+embeddings_49307640.csv.pkl: It's what I ordered
+embeddings_90324509.csv.pkl: Looks great
+embeddings_89442721.csv.pkl: many things you can do
+embeddings_9278338.csv.pkl: small footprint
+embeddings_10391041.csv.pkl: library wall
+embeddings_29481701.csv.pkl: sturdy construction
+embeddings_80303437.csv.pkl: little scratch on glass
+embeddings_29294554.csv.pkl: Love it
+embeddings_39285827.csv.pkl: hung on wall
+embeddings_9442678.csv.pkl: love product
+embeddings_90495695.csv.pkl: heavy-duty
+embeddings_60530577.csv.pkl: impossible assembly
+embeddings_29442620.csv.pkl: Great addition
+embeddings_39285808.csv.pkl: did not include screws
+embeddings_30324507.csv.pkl: Fits size-wise
+embeddings_20473593.csv.pkl: Tricky assembly
+embeddings_49442643.csv.pkl: Look great
+embeddings_89442622.csv.pkl: Great piece
+embeddings_9275085.csv.pkl: Price
+embeddings_39442691.csv.pkl: in love with stand
+embeddings_10538849.csv.pkl: include wall anchor kit
+embeddings_70301537.csv.pkl: Great value
+embeddings_49275088.csv.pkl: Slightly taller bookshelf
+embeddings_80487813.csv.pkl: assembly was okay
+embeddings_49481700.csv.pkl: Perfect for crafting space
+embeddings_19386101.csv.pkl: Easily put together
+embeddings_70483274.csv.pkl: fits perfectly
+embeddings_19294535.csv.pkl: Organized space
+embeddings_388633.csv.pkl: needs support for the top
+embeddings_89278278.csv.pkl: love the look
+embeddings_20415193.csv.pkl: works perfectly fine
+embeddings_9398675.csv.pkl: Nice console set up
+embeddings_10477935.csv.pkl: working great
+embeddings_99490274.csv.pkl: nice looking
+embeddings_89442641.csv.pkl: easy to assemble
+embeddings_60510862.csv.pkl: Poor quality
+embeddings_29278262.csv.pkl: all parts present
+embeddings_70286645.csv.pkl: can't put heavy items
+embeddings_49398678.csv.pkl: easy to assemble
+embeddings_9398722.csv.pkl: Awesome product
+embeddings_40324516.csv.pkl: sturdy
+embeddings_89278301.csv.pkl: Practical
+embeddings_80556236.csv.pkl: required tricks
+embeddings_20409936.csv.pkl: love this size
+embeddings_29481678.csv.pkl: Looks good
+embeddings_19442692.csv.pkl: Worked perfectly
+embeddings_90301555.csv.pkl: Perfect fit
+embeddings_79278269.csv.pkl: added door and drawer inserts
+embeddings_79197584.csv.pkl: easy to assemble
+embeddings_30530574.csv.pkl: Good quality
+embeddings_29197572.csv.pkl: consider this
+embeddings_59442628.csv.pkl: good quality
+embeddings_60275812.csv.pkl: Features
+embeddings_40415192.csv.pkl: Solid Wood
+embeddings_99294560.csv.pkl: holds lots of books
+embeddings_19552949.csv.pkl: Perfect night table
+embeddings_20301554.csv.pkl: perfect for nightstand
+embeddings_80275887.csv.pkl: Ease
+embeddings_79442665.csv.pkl: First stand
+embeddings_59294557.csv.pkl: Thoughtful design
+embeddings_29442677.csv.pkl: zero problems
+embeddings_69442680.csv.pkl: Built an entire wall
+embeddings_29442615.csv.pkl: easy to assemble
+embeddings_29336356.csv.pkl: frustrating
+embeddings_80508504.csv.pkl: older version shelving
+embeddings_50481172.csv.pkl: perfect height
+embeddings_60324520.csv.pkl: various sizes
+embeddings_79278325.csv.pkl: Good design
+embeddings_89221055.csv.pkl: Awful doors
+embeddings_10275862.csv.pkl: gaps in shelving
+embeddings_40409935.csv.pkl: Ikea offers variations
+embeddings_334536.csv.pkl: Troublesome pressure system
+embeddings_70342199.csv.pkl: sturdy
+embeddings_89398718.csv.pkl: It's good
+embeddings_49306872.csv.pkl: Unit pieces
+embeddings_89275091.csv.pkl: fits needs well
+embeddings_30495599.csv.pkl: Perfect fit
+embeddings_39932538.csv.pkl: drawer units
+embeddings_69442642.csv.pkl: great delivery
+embeddings_99017186.csv.pkl: Looks great
+embeddings_40275846.csv.pkl: wanted smaller size
+embeddings_69190936.csv.pkl: Great addition
+embeddings_99442674.csv.pkl: Great look
+embeddings_49442676.csv.pkl: Quality all the way
+embeddings_89442617.csv.pkl: unpainted edges
+embeddings_20278167.csv.pkl: lightweight inserts
+embeddings_99481694.csv.pkl: add on accessories
+embeddings_70391038.csv.pkl: Excellent quality
+embeddings_99306860.csv.pkl: easy to assemble
+embeddings_80483283.csv.pkl: simple assembly
+embeddings_20275885.csv.pkl: shelving
+embeddings_40510863.csv.pkl: installation hardware not included
+embeddings_59442666.csv.pkl: Perfect size
+embeddings_89278297.csv.pkl: premium look
+embeddings_40423719.csv.pkl: Incredible
+embeddings_79902657.csv.pkl: holds heavy items
+embeddings_19189030.csv.pkl: Perfect for sewing room
+embeddings_50214678.csv.pkl: tempered glass
+embeddings_99932540.csv.pkl: worth driving hours for
+embeddings_20305745.csv.pkl: great feature
+embeddings_89435221.csv.pkl: Perfect size
+embeddings_10221685.csv.pkl: discontinued
+embeddings_19278272.csv.pkl: drawers
+embeddings_79442689.csv.pkl: looks good
+embeddings_30275861.csv.pkl: Great shelf unit
+embeddings_59189033.csv.pkl: Broken cubes
+embeddings_59552914.csv.pkl: baskets hold shoes
+embeddings_49189203.csv.pkl: Great entry cabinet
+embeddings_69278335.csv.pkl: Defective
+embeddings_39286266.csv.pkl: Bohemian feel
+embeddings_70332124.csv.pkl: six stacked
+embeddings_50483289.csv.pkl: looks good
+embeddings_70388639.csv.pkl: Love
+embeddings_60333954.csv.pkl: effective storage

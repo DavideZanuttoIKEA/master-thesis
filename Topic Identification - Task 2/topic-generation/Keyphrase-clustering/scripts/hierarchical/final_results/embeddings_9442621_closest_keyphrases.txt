@@ -1,0 +1,3 @@
+Cluster 1: dog grooming table
+Cluster 2: several pieces in home
+Cluster 3: Love Kallax

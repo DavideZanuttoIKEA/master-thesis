@@ -1,0 +1,78 @@
+Cluster 67: This sentence doesn't contain enough information about the product for generating keyphrases and their corresponding sentiment.
+Cluster 57: Fits beautifully
+Cluster 55: many options
+Cluster 49: sturdy
+Cluster 27: can be used vertically or horizontally
+Cluster 2: Great price
+Cluster 12: Always works well
+Cluster 20: easy to assemble
+Cluster 10: Looks great
+Cluster 30: Great for small space
+Cluster 52: good weight
+Cluster 24: storage cubbies
+Cluster 50: Durable
+Cluster 54: several sizes
+Cluster 9: Great addition
+Cluster 51: holds 33 lbs
+Cluster 3: well made
+Cluster 60: Reverse threaded side panels
+Cluster 4: nice look
+Cluster 42: Making built-in bed
+Cluster 22: wine rack
+Cluster 43: great option for renters
+Cluster 32: Great for vinyl records
+Cluster 40: Night stand
+Cluster 76: smooth and pretty
+Cluster 46: versatile
+Cluster 71: Simple looking
+Cluster 68: out of stock issue
+Cluster 23: microwave holder
+Cluster 70: affordable
+Cluster 7: great product
+Cluster 25: great storage space
+Cluster 72: simple
+Cluster 8: Nice little unit
+Cluster 14: Great
+Cluster 31: suitable for crafting supplies
+Cluster 65: will purchase more
+Cluster 11: Worked well
+Cluster 44: Versatile design
+Cluster 53: Lightweight
+Cluster 33: finished master closet project
+Cluster 78: wipes off easily
+Cluster 62: dented
+Cluster 48: Practical
+Cluster 36: usually love Ikea furniture
+Cluster 47: Versatile piece
+Cluster 73: Simple lines
+Cluster 13: work perfectly
+Cluster 75: Clean look
+Cluster 16: Positive
+Cluster 58: fits decor
+Cluster 6: looked good
+Cluster 59: doors
+Cluster 1: Great buy
+Cluster 19: exactly what I wanted
+Cluster 29: ideal for office use
+Cluster 21: Branas baskets
+Cluster 17: Cute
+Cluster 56: Perfect size
+Cluster 15: Perfect
+Cluster 18: love it
+Cluster 41: absolutely perfect (regarding a stand)
+Cluster 64: not included feet pads
+Cluster 26: drawers
+Cluster 5: Nice quality
+Cluster 69: factory process
+Cluster 66: needed
+Cluster 37: I love Kallax
+Cluster 63: Arrived damaged
+Cluster 45: tailored to specific needs
+Cluster 74: simple setup
+Cluster 38: Tall nightstands
+Cluster 77: sleek
+Cluster 61: screws visible
+Cluster 28: double cube
+Cluster 35: accessorize easily
+Cluster 34: Craft room organizer
+Cluster 39: Perfect for bedside

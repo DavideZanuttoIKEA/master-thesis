@@ -1,0 +1,43 @@
+Cluster 16: Goes together like garbage
+Cluster 32: Excellent quality
+Cluster 41: sturdy
+Cluster 11: really like it
+Cluster 2: Assembly nightmare
+Cluster 20: last piece does not fit right
+Cluster 13: Good
+Cluster 38: sleek and slim
+Cluster 43: great piece of furniture
+Cluster 26: Plastic dowels
+Cluster 24: Poorly cut holes
+Cluster 34: perfect for LP records
+Cluster 35: Perfect size
+Cluster 3: Difficult to assemble
+Cluster 1: easy to assemble
+Cluster 29: Looks great
+Cluster 22: poor connectors
+Cluster 40: flexible design
+Cluster 31: Great Product
+Cluster 17: frustrating experience
+Cluster 39: Attractive design
+Cluster 33: great storage
+Cluster 28: Attractive appearance
+Cluster 36: cheaply made
+Cluster 15: quick
+Cluster 25: used for rolled towels
+Cluster 7: functional
+Cluster 8: like a puzzle
+Cluster 9: required brute force
+Cluster 5: study once assembled
+Cluster 14: product
+Cluster 6: agony and trauma
+Cluster 37: Spectacular light orange color
+Cluster 19: alignment issues
+Cluster 42: Structurally sound cabinet
+Cluster 21: broke during assembly
+Cluster 4: clear instructions
+Cluster 27: chipped wood
+Cluster 23: no normal screws
+Cluster 12: Awful
+Cluster 30: works great
+Cluster 18: won't recommend
+Cluster 10: met expectations

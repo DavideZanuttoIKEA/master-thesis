@@ -1,0 +1,11 @@
+Cluster 1: Price
+Cluster 3: no specific key characteristics mentioned in the sentence.
+Cluster 10: worked out perfect
+Cluster 6: sturdy
+Cluster 7: looks great
+Cluster 9: Great item
+Cluster 4: Great bookshelf
+Cluster 5: Good shelf
+Cluster 2: looks expensive
+Cluster 11: came fast
+Cluster 8: great quality

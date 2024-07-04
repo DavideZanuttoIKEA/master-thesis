@@ -1,0 +1,47 @@
+Cluster 37: Great color
+Cluster 1: Large shelf
+Cluster 3: bookcase
+Cluster 11: Cubbies fit storage
+Cluster 24: design
+Cluster 2: Great shelving unit
+Cluster 19: added LED lights
+Cluster 44: broke easily
+Cluster 42: Inexpensive
+Cluster 13: Options for doors and drawers
+Cluster 34: defective pegs
+Cluster 36: Thin boards
+Cluster 7: teaches students about organizing
+Cluster 12: extra cubbies left
+Cluster 9: for clothing
+Cluster 29: holds a lot
+Cluster 14: works perfectly
+Cluster 17: I like it
+Cluster 5: stores heavy books
+Cluster 30: great depth
+Cluster 39: Great product
+Cluster 4: Great bookshelf
+Cluster 45: one person assembly
+Cluster 6: Perfect organizer
+Cluster 41: Love this unit
+Cluster 25: size
+Cluster 32: Questionable quality
+Cluster 22: Sentiment 1
+Cluster 10: stores arts and crafts
+Cluster 33: wobbly
+Cluster 31: strong enough
+Cluster 20: Perfect addition
+Cluster 46: easy assembly
+Cluster 16: perfect
+Cluster 15: works well
+Cluster 38: Good looking
+Cluster 43: pricey
+Cluster 26: fits nicely in space
+Cluster 35: smaller holes
+Cluster 27: Versatility
+Cluster 28: functionality
+Cluster 18: love it
+Cluster 23: Keyphrase 1
+Cluster 21: took forever to order
+Cluster 40: good price
+Cluster 47: was able to build alone
+Cluster 8: Homeschool organization

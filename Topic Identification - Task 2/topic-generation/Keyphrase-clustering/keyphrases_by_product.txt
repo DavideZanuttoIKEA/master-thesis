@@ -1,0 +1,215 @@
+embeddings_89386107.csv.pkl: challenging assembly, Cute design, easy assembly, Great bookcase, particleboard connections, keyhole fasteners, Met expectations, hardware not included
+embeddings_70538846.csv.pkl: expected due to price, Well made, easy assembly, perfect size, easy wire access, can hold large TV and soundbar, really nice look
+embeddings_415599.csv.pkl: Great size, Good storage, difficult assembly, easy to assemble, durable, drawers and baskets
+embeddings_29481683.csv.pkl: functional, Good value
+embeddings_29442663.csv.pkl: IKEA perfection, Sturdy, good looking, Metal base, Good quality, Simple, Light weight, Changeable orientation
+embeddings_50324511.csv.pkl: Drawers, great add on, Convenient storage, out of sight, beloved by the child, Perfectly for a child
+embeddings_70301542.csv.pkl: Nice and sturdy, Great storage space, Great shelving unit, Looks great, Easy assembly, attached to walls
+embeddings_40501892.csv.pkl: Looks great, Elevates Kallax, easy to assemble, modern looking, makes bookcase more functional, provides height, raised legs
+embeddings_39329384.csv.pkl: finished product, two drawers, off the floor, Little pricey
+embeddings_80401292.csv.pkl: Perfect fit, Works great, holds wine bottles, Great shoe storage, functional, Kallax shelves, Easy to assemble
+embeddings_39442686.csv.pkl: used for storage, Aesthetically pleasing, popular, sturdy
+embeddings_99017445.csv.pkl: Easy to assemble, with doors and draws, Love it, Excellent storage, nice looking
+embeddings_20454504.csv.pkl: Perfect fit, Small storage space, casters not effective, Easy to assemble
+embeddings_90495596.csv.pkl: Easy to put together, neater look, nice for elevating
+embeddings_501889.csv.pkl: Easy to assemble, Looks great, worth the money, Raised base, right height
+embeddings_49294529.csv.pkl: Two shelves, easy to put together, not predrilled
+embeddings_50334591.csv.pkl: Difficult to assemble, awesome for displaying things, appearance, functional, Perfect for vinyl storage, looks great
+embeddings_79278250.csv.pkl: cube storage, Easy to put together, highly useful
+embeddings_60278170.csv.pkl: Improved look, flimsy, Looks amazing, Easy install, Added doors and drawers
+embeddings_70339291.csv.pkl: sturdy, Great shelf unit, long assembly, good purchase, Nice looking, Defective part, easy to assemble, modern aesthetic
+embeddings_79294523.csv.pkl: quality product, tricky assembly
+embeddings_89278259.csv.pkl: organized home office space, overall five-star rating, hold up well, screws broke, Easy to assemble, which expresses frustration or disappointment), Unable to purchase
+embeddings_9442640.csv.pkl: Perfect size, Sturdy, easy to assemble
+embeddings_49285817.csv.pkl: Look great, can support 30lbs, great on wall, easy assembly, Great use of space
+embeddings_90510865.csv.pkl: Perfect, Worth every penny
+embeddings_40415601.csv.pkl: durable, Great look, fits perfectly, Great storage, Small shelving, easy to assemble
+embeddings_49481658.csv.pkl: lot of storage, Perfect desk, Study
+embeddings_40346924.csv.pkl: Fits various rooms, Good product, great look, soft gray, Easy to assemble, Functional, wonderful storage
+embeddings_59902658.csv.pkl: Beautiful design, supports bins and books, often out of stock, misleading description, easy on the eye
+embeddings_29278304.csv.pkl: Expensive appearance, Installing doors and drawers, Nice look, well built, Excellent storage solution, easy assembly, versatile
+embeddings_19490273.csv.pkl: Particle wood, struggles to assemble
+embeddings_29481659.csv.pkl: sturdy, Love this desk, Space and storage, Sleek look, beautiful
+embeddings_10324513.csv.pkl: Good product, extra cubbies left, Great bookshelf, design
+embeddings_89294532.csv.pkl: games, Sturdy and well made, added desired look
+embeddings_89442679.csv.pkl: Easy to assemble, Sturdy, good bargain, accessibility
+embeddings_79442694.csv.pkl: Work well, Underframe, easy assembly, tons of storage
+embeddings_79278293.csv.pkl: under windows, Looks great, baskets of toys, Variations of kallax cubes, Sturdy shelves, cushioned, wish better instructions, Unit
+embeddings_19442710.csv.pkl: Love it, Light weight, new metal base
+embeddings_10409932.csv.pkl: sturdy, organized sewing room, love, Looks great, Great closet storage, Small space, Easy assembly, Good product
+embeddings_275848.csv.pkl: great for craft room, Easy assembly, Good quality product, organized stuff, Great storage, Great shelf unit, fits small spaces, terrific
+embeddings_9442720.csv.pkl: provides space, solid and sturdy, Sewing & craft room, love look
+embeddings_69329387.csv.pkl: crooked drawers, solid, smooth installation, Clean, permanent room feature, Frustrating item
+embeddings_50339292.csv.pkl: doors do not align, good value, Fabulous shelf unit, Easy assembly, Great look, sturdy, lots of storage, Industrial look
+embeddings_19285833.csv.pkl: Fantastic, easy to put together, Effective solution, Love
+embeddings_39278290.csv.pkl: Versatile, small drawers, looks great, lot of storage, sturdy, Easy assembly
+embeddings_59442713.csv.pkl: unevenly painted, requires flipping for underframe installation
+embeddings_69481681.csv.pkl: Stores much, Beautiful
+embeddings_19278328.csv.pkl: Requires 3 people to assemble, Great look, elegant, Drawers, easy assembly, great value
+embeddings_99294517.csv.pkl: Love new desk setup, doesn't wobble, Streamlined, beautiful, long-lasting, place to display, easy to assemble, Wonderful unit
+embeddings_49294548.csv.pkl: Well made, used as TV stand, looks great, Elevates space, man cave
+embeddings_79285830.csv.pkl: easy assembly, Love the look, Smart storage, Inexpensive, looks great, Nice quality
+embeddings_80428852.csv.pkl: Huge design flaw, Easy assembly, comes only in white, compatible with other eket combinations, Great product, Great storage solution, missing door
+embeddings_20275814.csv.pkl: Easy and quick assembly, Versatile storage, Great design, Great shelving, Good price, bigger items
+embeddings_39017486.csv.pkl: Inconsistencies, best thing to buy, cabinet and drawers installation, Great storage system, required extra parts, Great quality
+embeddings_324518.csv.pkl: easy to assemble, sturdy, worked out great, great storage, Great shelf, versatile, Great Product
+embeddings_20213312.csv.pkl: good value, nice aesthetic, easy to assemble, Nice display shelf
+embeddings_79294542.csv.pkl: looks good, Heavy, mounting screws not included
+embeddings_9442621.csv.pkl: dog grooming table, Love Kallax
+embeddings_80512959.csv.pkl: challenge to assemble, provides storage, considering purchasing another one
+embeddings_79521356.csv.pkl: Look great, Great purchase
+embeddings_90305803.csv.pkl: Clean & Modern, Nice look, easy to assemble, television shelf
+embeddings_40334558.csv.pkl: versatile, Excellent product, Great looking, Easily breaks, Made a table, Easy to assemble, Modern look, Love our cubes
+embeddings_19931865.csv.pkl: functional, Shelf with drawers, great-looking, fits various decors, slight wobble, held up well
+embeddings_20510864.csv.pkl: Nice looking, impossible to assemble
+embeddings_60221683.csv.pkl: Slim design, looks great, Sturdy and solid, Great shelves, Easy to assemble, Holds a lot of books
+embeddings_99442645.csv.pkl: Beautifully made, affordable price
+embeddings_50454507.csv.pkl: Product was marked incorrectly, Decent rolling shelf, Practical, Easy to assemble, Good quality, Office storage, works well
+embeddings_89285820.csv.pkl: quick assembly, Book shelves, sturdy, clean lines, gray colors, simple solution, well-designed, mount on wall
+embeddings_10345073.csv.pkl: great for storage, Great design, gold color, Handy
+embeddings_10487816.csv.pkl: good product, Easy to assemble, Love it, Handy little shelf, sturdy, Low price, stylish
+embeddings_40303439.csv.pkl: well-built, Shelf for plants, easy assembly, perfect shelving unit, Not as expected, elegant
+embeddings_70309840.csv.pkl: easy to assemble, Great display case, should be available, Base on legs, 18 cube, color-matched, space saver
+embeddings_9189200.csv.pkl: Stylish, tedious assembly, misleading, functional, Three pieces, Sturdy enough for play, required power tool, Great purchase
+embeddings_40314640.csv.pkl: Prefer drawers, Quality product, hiding things, Love the design, Easy to assemble, hardware doesn't sit perfectly, Great door
+embeddings_59481653.csv.pkl: Great craft setup, craft and sewing area
+embeddings_59189127.csv.pkl: had to hit down with a hammer, Didn’t assemble correctly
+embeddings_9442616.csv.pkl: love it, few parts
+embeddings_9442664.csv.pkl: Flexible storage, Available
+embeddings_9481684.csv.pkl: quick assembly, well-made, top connection
+embeddings_19442654.csv.pkl: Great shelve, (No additional characteristics or sentiments given in the sentence)
+embeddings_19278253.csv.pkl: Looks great, Easy to assemble, sturdy, Perfect height, Perfect album storage, Value for the money
+embeddings_59278307.csv.pkl: Perfect fit, more storage, Great product, easy assembly, Great for toy storage, versatile, Nice and clean look
+embeddings_314642.csv.pkl: terrific look, Easy to install, doesn't slide nicely, Looks good, good value for money, Great drawers
+embeddings_90286649.csv.pkl: pleasing appearance, love drawers, provides storage, Easy assembly, Durable, works great, Great design
+embeddings_40311873.csv.pkl: Customization, Sturdy, perfect fit, Looks great, Easy assembly, Little shelf unit, matched existing Kallax
+embeddings_20423720.csv.pkl: Great purchase, Love the Kallax system, Easy assembly, a little flimsy, make great storage space
+embeddings_10305741.csv.pkl: gloss finish, Easy assembly, Wonderful storage unit, not sturdy looking, Nice product, Customizable, great
+embeddings_89442655.csv.pkl: sturdy, looks great
+embeddings_9294526.csv.pkl: extra storage, didn't always line up right, fits small appliances, Perfect size, sturdiness
+embeddings_80334603.csv.pkl: Versatile, Difficult assembly, plastic pegs, Great storage unit, Great quality, following instructions
+embeddings_49336341.csv.pkl: glass door, looks great, Easy assembly, Great display box, back board not cut properly, Functional and beautiful
+embeddings_59442685.csv.pkl: easy to assemble, well made, black base stand, Sleek, Book shelf, Kallax for record albums, sometimes out of stock, damaged side
+embeddings_10305802.csv.pkl: clean lines, easy to assemble, good quality, thin metal legs, glass shelf, Nice looking, beautiful
+embeddings_79442627.csv.pkl: Good for the price, Sturdy, 15 minutes assembly, Budget-friendly, seems to last, Looks great, expensive look
+embeddings_50305739.csv.pkl: fit perfect, Sleek design, easy to assemble, excellent price, durable, extra storage
+embeddings_79552908.csv.pkl: great quality, get organized
+embeddings_49442718.csv.pkl: sturdy base, cubbies
+embeddings_90562166.csv.pkl: back panel, Easy to assemble
+embeddings_9017483.csv.pkl: Well built, Easy to assemble (excluding doors), not compatible with other line, wooden pegs
+embeddings_89307643.csv.pkl: Door, Looks great, does not fit records/record player
+embeddings_90428842.csv.pkl: faux wood grain veneer, looks great, sturdy, difficult assembly, Great product, peace together, floating nightstands
+embeddings_49307640.csv.pkl: Great storage, It's what I ordered
+embeddings_90324509.csv.pkl: reliable and strong, for board games, perfect use, offers storage, Looks great, Perfect shelving
+embeddings_89442721.csv.pkl: has to be put together, Kallax, many things you can do
+embeddings_9278338.csv.pkl: difficult assembly, small footprint, A little underwhelming
+embeddings_10391041.csv.pkl: behind glass doors, Great bookshelves, Simple design
+embeddings_29481701.csv.pkl: easy installation, Well-built table, Versatile, wall anchors
+embeddings_80303437.csv.pkl: Smaller unit, clean look, Pretty shelves, easy assembly, sturdy, great product
+embeddings_29294554.csv.pkl: Love it, just wanted
+embeddings_39285827.csv.pkl: quick assembly, great display box, Looks great, more colors, Love this!
+embeddings_9442678.csv.pkl: Easy to put together, love product, look great, many options, Good unit, fits perfectly
+embeddings_90495695.csv.pkl: easy assembly, Excellent fit, Organizes HTV and vinyl rolls, needed darker color, Great for shoes
+embeddings_60530577.csv.pkl: disappointed, careful directions, impossible assembly
+embeddings_29442620.csv.pkl: Great addition, puts together easily
+embeddings_39285808.csv.pkl: includes wall mounting unit, look great, Easy to build, Easily mounts, Great!, some difficulty attaching
+embeddings_30324507.csv.pkl: Perfect insert, doors prone to coming off, good instructions, charging stations for electronics, This sentence doesn't contain any descriptive keywords or characteristics for the product.
+embeddings_20473593.csv.pkl: Tricky assembly, Good looks, functional, pre-drilled holes, Perfect fit, storage at bottom, hence all generated keyphrases are neutral by default)
+embeddings_49442643.csv.pkl: Look great, Easy to put together
+embeddings_89442622.csv.pkl: Great piece, no matching stand in stock
+embeddings_9275085.csv.pkl: Great bookshelf, Price, great quality, no specific key characteristics mentioned in the sentence., sturdy, worked out perfect
+embeddings_39442691.csv.pkl: in love with stand, sturdy, ease of assembly, secure to wall
+embeddings_10538849.csv.pkl: unique design, Easy to assemble, pleasing shelf unit, Clear installation instructions, include wall anchor kit, Good looking piece of furniture
+embeddings_70301537.csv.pkl: Not as sturdy as expected, Large storage, spacious, Great shelving unit, unique design, keeps items organized, Great look, Easy assembly
+embeddings_49275088.csv.pkl: Made of hardwood, good appearance, Non-adjustable middle shelf, sturdy, just the right size, Good quality
+embeddings_80487813.csv.pkl: Pretty shelf, Functional, enough spacing, closet shelf, Good product, easy assembly, simple design, Looks great
+embeddings_49481700.csv.pkl: sturdy, Compact yet spacious, Missing pre-drilled holes
+embeddings_19386101.csv.pkl: Great solution, Easy assembly, look great, Great kitchen storage
+embeddings_70483274.csv.pkl: in closet, Wonderful shelves, sturdy and strong, holds purses, easy assembly
+embeddings_19294535.csv.pkl: Organized space, looks great
+embeddings_388633.csv.pkl: Great size, Excellent bookcase, easy to assemble, good value, Perfect fit, Solid wood
+embeddings_89278278.csv.pkl: Practical shelf unit, doors, bought second unit, perfect size
+embeddings_20415193.csv.pkl: warped boards, sturdy, works perfectly fine, high quality, Upscale
+embeddings_9398675.csv.pkl: Nice console set up, turns living room into adulting space
+embeddings_10477935.csv.pkl: This piece, Great shelf/nightstand, working great
+embeddings_99490274.csv.pkl: nice looking, Bad engineered design
+embeddings_89442641.csv.pkl: easy to assemble, Great bookshelf, looks great, base with adjustable base, Exactly what I wanted, versatile, Love Kallax Collection, Small space
+embeddings_60510862.csv.pkl: Doesn't fit together, Good looking, effective storage, Terrible design, requiring a hammer to assemble, versatile
+embeddings_29278262.csv.pkl: loved this product, cheaply made, better organized, junk doors, Sturdy, Easy assembly
+embeddings_70286645.csv.pkl: well-built, Easy assembly, Great fit, new design, keeps things organized, drawers work well, Addition to Kallax
+embeddings_49398678.csv.pkl: Exceptional pieces of storage, good experience, easy to assemble
+embeddings_9398722.csv.pkl: Awesome product, Positive (repeated)
+embeddings_40324516.csv.pkl: works perfectly, Sturdy looking, Great storage, Easy to assemble, Modular product, 1x4 on platform
+embeddings_89278301.csv.pkl: great buy, looks amazing, Functional, add drawers, different colors, plenty of spaces, simple wood base
+embeddings_80556236.csv.pkl: low quality, cracks on outside, required tricks
+embeddings_20409936.csv.pkl: Great book storage, Nice product, good size, Easy to assemble, Strong and sturdy
+embeddings_29481678.csv.pkl: sturdy, understands instructions, Looks good
+embeddings_19442692.csv.pkl: Easy to assemble, storage closet, Worked perfectly, super sturdy
+embeddings_90301555.csv.pkl: Well built, storage cubbies, Versatile design, easy to assemble, dented
+embeddings_79278269.csv.pkl: Great size, added door and drawer inserts, easy to assemble, great for kids room, fits bill, Best storage
+embeddings_79197584.csv.pkl: easy to assemble, storage, nine units
+embeddings_30530574.csv.pkl: turned out awesome, heavy item display, no tools required, Good quality, Cube side tables
+embeddings_29197572.csv.pkl: Versatile, veneer coating, consider this, prone to breakdown, looks great, Easy assembly
+embeddings_59442628.csv.pkl: good quality, Easy to assemble
+embeddings_60275812.csv.pkl: versatile, Easy assembly, used as drawers, wonderful shelf unit, Perfect fit, sold accessories, Versatile storage, Nice quality look
+embeddings_40415192.csv.pkl: Great purchase, provide shelves, easy assembly, Solid Wood
+embeddings_99294560.csv.pkl: holds lots of books, Looks great, sturdy
+embeddings_19552949.csv.pkl: Small space, I like it
+embeddings_20301554.csv.pkl: fits width but taller than expected, This cube, can mimic decor styles, (The given sentence is merely stating that a purchase has been made, versatility with drawers, Worked out great, Easy to assemble
+embeddings_80275887.csv.pkl: keeps room organized, Great storage shelves, good product, provide excellent storage space, Great design, Easy assembly, versatile piece
+embeddings_79442665.csv.pkl: First stand, works great
+embeddings_59294557.csv.pkl: Great price, Sturdy, Easy assembly
+embeddings_29442677.csv.pkl: kitchenette area, nice construction, holds album collection, functional, gets compliments, easy assembly, Storage space
+embeddings_69442680.csv.pkl: decent appearance, Works great for storage, vintage components, clear directions for base installation, grey/wood look, enamored by function and quality
+embeddings_29442615.csv.pkl: Requires patience, easy to assemble, purchased more, liked it a lot, 2nd Kallax piece, roomy
+embeddings_29336356.csv.pkl: Difficult assembly, Excellent design, small in size, frustrating
+embeddings_80508504.csv.pkl: Stylish, stripped screws, Kallax shelf unit, black interior, insert
+embeddings_50481172.csv.pkl: fits in small spaces, Great little shelf, screws not properly set, easy assembly, Good value
+embeddings_60324520.csv.pkl: Shelf, Well built, love different colors
+embeddings_79278325.csv.pkl: looks great, Well built, for toys and books, Right size, Organizer, attractive
+embeddings_89221055.csv.pkl: Awful doors, looks amazing, Makes organize, versatile in design
+embeddings_10275862.csv.pkl: Good product, Easy to assemble, Excellent storage space, Great organizer, sturdy, great design, Great shelving
+embeddings_40409935.csv.pkl: Great Look, Easy to assemble, versatile, Great Storage, mistakenly bought natural wood, broken pegs, bought for displaying model cars
+embeddings_334536.csv.pkl: holes for center boards spaced differently, Good looking design, great size, Difficult assembly, sturdy, place on a rig for assembly, Defective product
+embeddings_70342199.csv.pkl: Wrong screws, sturdy, Perfect size, Amazing shelf unit, Small spaces, easy assembly, Well designed, Nice looking
+embeddings_89398718.csv.pkl: very nice, Unit for plants and decor, It's good
+embeddings_49306872.csv.pkl: cubbies, Product, Unit pieces, adds extra storage, in small space, did not go together smoothly
+embeddings_89275091.csv.pkl: display items, Looks great, easy to purchase, stash supplies, easy assembly, 2 open shelves, scuffed surface, Solidly built
+embeddings_30495599.csv.pkl: Versatile, Perfect fit, right height, Great product, higher price for black
+embeddings_39932538.csv.pkl: ideal for display, metal unit, drawer units, looks great
+embeddings_69442642.csv.pkl: wicker baskets, great delivery, Fits perfectly
+embeddings_99017186.csv.pkl: Easy to assemble, provides space, versatile, Good product
+embeddings_40275846.csv.pkl: Easy to assemble, Good product, Great storage, small space
+embeddings_69190936.csv.pkl: taken time to assemble, Great addition
+embeddings_99442674.csv.pkl: Great look, Great price
+embeddings_49442676.csv.pkl: versatile, Great value, easy assembly, sturdy storage, Working perfectly, Additional piece
+embeddings_89442617.csv.pkl: easy to assemble, nice finish, Great storage, Bought doors, unpainted edges
+embeddings_20278167.csv.pkl: Functional, Ingenious storage unit, easy installation, inadequate screws, Installing doors, Great design
+embeddings_99481694.csv.pkl: add on accessories, as described
+embeddings_70391038.csv.pkl: looks great, easy to assemble, space-saving, Bookcase, fits perfectly, taller design, Excellent quality, Sturdy
+embeddings_99306860.csv.pkl: Organizational tool, easy to assemble, Perfect cabinet, exceeds expectations, works great, work electronics and supplies, rubber mallet required, clean and sleek
+embeddings_80483283.csv.pkl: see-through door, holds many items, simple assembly, Stylish, finish wasn't perfect, looks great, Tiered storage
+embeddings_20275885.csv.pkl: Versatile piece, Fantastic look, quality product, Great storage space, Great bookshelf, Easy assembly
+embeddings_40510863.csv.pkl: Beautiful color, easy to assemble, stacks nicely, installation hardware not included, ordered wall bracket separately
+embeddings_59442666.csv.pkl: looks great, holds sheets and blankets, DIY mudroom project
+embeddings_89278297.csv.pkl: Perfect, delicate, premium look
+embeddings_40423719.csv.pkl: Love it, brings functional use, Looks great, Great way to store paper, easy to assemble
+embeddings_79902657.csv.pkl: looks good, holds heavy items, easy assembly
+embeddings_19189030.csv.pkl: Perfect for sewing room, wish could post picture
+embeddings_50214678.csv.pkl: Great shelf, modern look, Affordable, Design of piece, easy to assemble, Great design, Perfect Size, perfect for storage and display
+embeddings_99932540.csv.pkl: worth driving hours for, Adjustable shelves, modern design, fits narrow spaces, Feels sturdy
+embeddings_20305745.csv.pkl: drawers, Added space, Looks great, Well built, great storage, Gloss white shelf
+embeddings_89435221.csv.pkl: screws didn't hold up, scales well, instructions were only pictures, perfect complement, good mix
+embeddings_10221685.csv.pkl: constructed well, Spacious, secure to wall
+embeddings_19278272.csv.pkl: Great product, keeps space neat, versatile, Easy to assemble, home desk
+embeddings_79442689.csv.pkl: optional drawers, feels sturdy, looks great, sophisticated look, easy assembly, would recommend Kallax products, Directions not helpful, Satisfied customer
+embeddings_30275861.csv.pkl: Easy to assemble, Great Shelving, Great storage space, Excellent product
+embeddings_59189033.csv.pkl: Broken cubes, $22.
+embeddings_59552914.csv.pkl: Inexpensive option, doors/drawers hide stuff, works, Needs frame attachment
+embeddings_49189203.csv.pkl: Difficult assembly, plastic attachment grooves, Great entry cabinet, Assembly process, incompatible with glass window, Doesn't come with connectors
+embeddings_69278335.csv.pkl: Sewing cabinet, made it to living room, Great look, Easy to assemble
+embeddings_39286266.csv.pkl: modern, attaches to wall, Bohemian feel, Doesn't close, easy assembly
+embeddings_70332124.csv.pkl: Small spaces, Impossible to assemble, Great storage system, Excellent item, Simple to put together
+embeddings_50483289.csv.pkl: holds a lot of items, Looks great, simple, sturdier
+embeddings_70388639.csv.pkl: White color availability, Solid sturdy shelf, Easy to assemble, lack of hardware covers, looks fantastic, inadequate instructions, Love them
+embeddings_60333954.csv.pkl: great storage, Terrible assembly instructions, Good product, Attractive design, sturdiness, Difficult assembly

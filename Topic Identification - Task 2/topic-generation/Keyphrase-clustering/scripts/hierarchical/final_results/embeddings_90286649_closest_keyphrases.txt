@@ -1,0 +1,47 @@
+Cluster 1: love drawers
+Cluster 19: Perfect fit
+Cluster 24: Great storage option
+Cluster 5: easy installation
+Cluster 46: happy
+Cluster 25: for craft room
+Cluster 31: slide well
+Cluster 3: Easy to assemble
+Cluster 14: Looks great
+Cluster 28: Flimsy hardware
+Cluster 11: bought more
+Cluster 12: Great product
+Cluster 23: organizes items
+Cluster 6: works great
+Cluster 10: quality of products
+Cluster 47: met my needs
+Cluster 22: Beautiful
+Cluster 4: tricky installation
+Cluster 36: Great height
+Cluster 2: challenging assembly
+Cluster 44: clear instructions
+Cluster 38: Versatility
+Cluster 39: Useful
+Cluster 30: smooth in operation
+Cluster 32: flimsy cardboard
+Cluster 33: Very sturdy
+Cluster 9: This sentence does not provide enough information to generate any keyphrases or classify their sentiment.
+Cluster 26: Shelf unit
+Cluster 40: keeps clean appearance
+Cluster 35: Extra space
+Cluster 18: Great add-on
+Cluster 29: stored adhesives
+Cluster 41: Sleek look
+Cluster 34: Kallax system
+Cluster 15: Great design
+Cluster 37: Small
+Cluster 42: Great option
+Cluster 45: Missing piece
+Cluster 20: love them
+Cluster 17: good addition
+Cluster 16: Attractive look
+Cluster 8: work as expected
+Cluster 7: no problems
+Cluster 13: great price
+Cluster 43: 12 units
+Cluster 27: fits baskets
+Cluster 21: Love it
