@@ -1,0 +1,114 @@
+{
+    "ext_sick": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.7911801009408739,
+            "spearman": 0.7648213798502626,
+            "kendall": 0.5857204241457932
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.839704263756955,
+            "spearman": 0.8068091767039355,
+            "kendall": 0.6336275193867297
+        },
+        "thenlper/gte-base": {
+            "pearson": 0.849030892176398,
+            "spearman": 0.7894167614509107,
+            "kendall": 0.6174145986475689
+        }
+    },
+    "tsv_semEval2012": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.631977286683405,
+            "spearman": 0.5435187900836478,
+            "kendall": 0.40139774282624
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.7345647531478439,
+            "spearman": 0.671276355495563,
+            "kendall": 0.5074801841697719
+        },
+        "thenlper/gte-base": {
+            "pearson": 0.7837476492148341,
+            "spearman": 0.7028698131391634,
+            "kendall": 0.5373382301153393
+        }
+    },
+    "tsv_semEval2013": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.8006274428402385,
+            "spearman": 0.7991037629127496,
+            "kendall": 0.6126221218626815
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.8347274696046987,
+            "spearman": 0.8299527436911734,
+            "kendall": 0.6469339201773228
+        },
+        "thenlper/gte-base": {
+            "pearson": 0.8371676942502331,
+            "spearman": 0.8593737565164256,
+            "kendall": 0.6695200751181718
+        }
+    },
+    "tsv_semEval2014": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.7527780767122054,
+            "spearman": 0.7289191794423113,
+            "kendall": 0.5470013736171789
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.8313772735565181,
+            "spearman": 0.8013452030131717,
+            "kendall": 0.6184891523403134
+        },
+        "thenlper/gte-base": {
+            "pearson": 0.8469562710514517,
+            "spearman": 0.8322335396099455,
+            "kendall": 0.6519753045983855
+        }
+    },
+    "word_interchangeability": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.6846806159838774,
+            "spearman": 0.6504668573357684,
+            "kendall": 0.46038642093952714
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.6858451324041248,
+            "spearman": 0.6702847572888931,
+            "kendall": 0.4786116546341079
+        },
+        "thenlper/gte-base": {
+            "pearson": 0.6831912666364879,
+            "spearman": 0.674285932483364,
+            "kendall": 0.481695806385184
+        }
+    },
+    "domain-specific": {
+        "uclanlp/keyphrase-mpnet-v1": {
+            "pearson": 0.7377439853544557,
+            "spearman": 0.6068756759346571,
+            "kendall": 0.48413820974357186
+        },
+        "sentence-transformers/all-mpnet-base-v2": {
+            "pearson": 0.7646686313676255,
+            "spearman": 0.5779789222900806,
+            "kendall": 0.44907992558972704
+        },
+        "thenlper/gte-base": {
+            "pearson": 0.7493278840597767,
+            "spearman": 0.553423259101973,
+            "kendall": 0.44240215717947085
+        },
+        "all-mpnet-base-v2-finetuned": {
+            "pearson": 0.9168781879288341,
+            "spearman": 0.5574574037685907,
+            "kendall": 0.4357243887692147
+        },
+        "gte-base-finetuned": {
+            "pearson": 0.87031029803113,
+            "spearman": 0.5764003439422737,
+            "kendall": 0.447410483487163
+        }
+    }
+}

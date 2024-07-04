@@ -1,0 +1,357 @@
+{"source": "a", "target": "easy to assemble", "predictions": "easy assembly"}
+{"source": "a", "target": "quality", "predictions": "sturdiness"}
+{"source": "a", "target": "durability", "predictions": "sturdiness"}
+{"source": "a", "target": "easy to assemble", "predictions": "flexibility"}
+{"source": "a", "target": "comfortable", "predictions": "ergonomic"}
+{"source": "a", "target": "style", "predictions": "modern design"}
+{"source": "a", "target": "portable", "predictions": "lightweight"}
+{"source": "a", "target": "cost-effective", "predictions": "affordable"}
+{"source": "a", "target": "space-saving", "predictions": "compact"}
+{"source": "a", "target": "luxurious", "predictions": "premium quality"}
+{"source": "a", "target": "antique", "predictions": "vintage"}
+{"source": "a", "target": "weather-resistant", "predictions": "durable"}
+{"source": "a", "target": "foldable", "predictions": "collapsible"}
+{"source": "a", "target": "adjustable", "predictions": "customizable"}
+{"source": "a", "target": "functional", "predictions": "practical"}
+{"source": "a", "target": "sleek", "predictions": "streamlined"}
+{"source": "a", "target": "rustic", "predictions": "traditional"}
+{"source": "a", "target": "minimalist", "predictions": "simple design"}
+{"source": "a", "target": "child-friendly", "predictions": "safe"}
+{"source": "a", "target": "eco-friendly", "predictions": "sustainable"}
+{"source": "a", "target": "multifunctional", "predictions": "versatile"}
+{"source": "a", "target": "expandable", "predictions": "extendable"}
+{"source": "a", "target": "ornate", "predictions": "decorative"}
+{"source": "a", "target": "contemporary", "predictions": "modern"}
+{"source": "a", "target": "robust", "predictions": "solid"}
+{"source": "a", "target": "compact", "predictions": "space-efficient"}
+{"source": "a", "target": "luxury", "predictions": "opulent"}
+{"source": "a", "target": "sleek finish", "predictions": "polished"}
+{"source": "a", "target": "traditional", "predictions": "classic"}
+{"source": "a", "target": "handcrafted", "predictions": "artisanal"}
+{"source": "a", "target": "budget-friendly", "predictions": "economical"}
+{"source": "a", "target": "heavy-duty", "predictions": "durable"}
+{"source": "a", "target": "plush", "predictions": "soft"}
+{"source": "a", "target": "innovative design", "predictions": "cutting-edge"}
+{"source": "a", "target": "lightweight", "predictions": "easy to move"}
+{"source": "a", "target": "colorful", "predictions": "vibrant"}
+{"source": "a", "target": "neutral tones", "predictions": "understated"}
+{"source": "a", "target": "vintage charm", "predictions": "retro style"}
+{"source": "a", "target": "ergonomic features", "predictions": "comfort design"}
+{"source": "a", "target": "fire-resistant", "predictions": "fireproof"}
+{"source": "a", "target": "modular", "predictions": "reconfigurable"}
+{"source": "a", "target": "timeless", "predictions": "classic design"}
+{"source": "a", "target": "cozy", "predictions": "comfortable"}
+{"source": "a", "target": "minimal assembly required", "predictions": "easy setup"}
+{"source": "a", "target": "stain-resistant", "predictions": "easy to clean"}
+{"source": "a", "target": "sustainable materials", "predictions": "eco-conscious"}
+{"source": "a", "target": "luxurious feel", "predictions": "plush comfort"}
+{"source": "a", "target": "custom-made", "predictions": "bespoke"}
+{"source": "a", "target": "wall-mounted", "predictions": "space-saving"}
+{"source": "a", "target": "sophisticated", "predictions": "elegant"}
+{"source": "a", "target": "practical", "predictions": "utilitarian"}
+{"source": "a", "target": "convertible", "predictions": "multi-use"}
+{"source": "a", "target": "industrial look", "predictions": "urban style"}
+{"source": "a", "target": "soft padding", "predictions": "cushioned"}
+{"source": "a", "target": "rust-resistant", "predictions": "durable finish"}
+{"source": "a", "target": "shabby chic", "predictions": "vintage-inspired"}
+{"source": "a", "target": "high-capacity", "predictions": "spacious"}
+{"source": "a", "target": "pet-friendly", "predictions": "durable against scratches"}
+{"source": "a", "target": "minimalist aesthetic", "predictions": "clean lines"}
+{"source": "a", "target": "waterproof", "predictions": "weatherproof"}
+{"source": "a", "target": "Sturdiness", "predictions": "Robustness"}
+{"source": "a", "target": "Easy to assemble", "predictions": "Quick setup"}
+{"source": "a", "target": "Comfortable", "predictions": "Padded"}
+{"source": "a", "target": "Style", "predictions": "Aesthetic"}
+{"source": "a", "target": "Modern design", "predictions": "Sleek look"}
+{"source": "a", "target": "Portable", "predictions": "Easy to carry"}
+{"source": "a", "target": "Lightweight", "predictions": "Featherweight"}
+{"source": "a", "target": "Durability", "predictions": "Wear resistance"}
+{"source": "a", "target": "Quality", "predictions": "Craftsmanship"}
+{"source": "a", "target": "Ergonomic", "predictions": "Supportive"}
+{"source": "a", "target": "Contemporary style", "predictions": "Trendy"}
+{"source": "a", "target": "Compact", "predictions": "Space-saving"}
+{"source": "a", "target": "Simple assembly", "predictions": "No-tools assembly"}
+{"source": "a", "target": "High-end", "predictions": "Luxury"}
+{"source": "a", "target": "Cozy", "predictions": "Snug"}
+{"source": "a", "target": "Easy to move", "predictions": "Mobile"}
+{"source": "a", "target": "Long-lasting", "predictions": "Durable"}
+{"source": "a", "target": "Robustness", "predictions": "Solid build"}
+{"source": "a", "target": "Quick setup", "predictions": "Instant assembly"}
+{"source": "a", "target": "Padded", "predictions": "Cushioned"}
+{"source": "a", "target": "Aesthetic", "predictions": "Decorative"}
+{"source": "a", "target": "Sleek look", "predictions": "Minimalist design"}
+{"source": "a", "target": "Easy to carry", "predictions": "Transportable"}
+{"source": "a", "target": "Featherweight", "predictions": "Ultra-light"}
+{"source": "a", "target": "Wear resistance", "predictions": "Toughness"}
+{"source": "a", "target": "Craftsmanship", "predictions": "Fine finish"}
+{"source": "a", "target": "Supportive", "predictions": "Comfort enhancing"}
+{"source": "a", "target": "Trendy", "predictions": "Fashionable"}
+{"source": "a", "target": "Space-saving", "predictions": "Compact design"}
+{"source": "a", "target": "No-tools assembly", "predictions": "Hassle-free setup"}
+{"source": "a", "target": "Luxury", "predictions": "Opulence"}
+{"source": "a", "target": "Snug", "predictions": "Inviting"}
+{"source": "a", "target": "Mobile", "predictions": "Portable design"}
+{"source": "a", "target": "Durable", "predictions": "Built to last"}
+{"source": "a", "target": "Solid build", "predictions": "Heavy-duty"}
+{"source": "a", "target": "Instant assembly", "predictions": "Easy setup"}
+{"source": "a", "target": "Cushioned", "predictions": "Soft"}
+{"source": "a", "target": "Decorative", "predictions": "Stylish"}
+{"source": "a", "target": "Minimalist design", "predictions": "Modern simplicity"}
+{"source": "a", "target": "Transportable", "predictions": "Carry-friendly"}
+{"source": "a", "target": "Ultra-light", "predictions": "Light as a feather"}
+{"source": "a", "target": "Toughness", "predictions": "Hard-wearing"}
+{"source": "a", "target": "Fine finish", "predictions": "Exquisite detailing"}
+{"source": "a", "target": "Comfort enhancing", "predictions": "Ergonomically designed"}
+{"source": "a", "target": "Fashionable", "predictions": "Chic"}
+{"source": "a", "target": "Compact design", "predictions": "Minimal space requirement"}
+{"source": "a", "target": "Hassle-free setup", "predictions": "Simple installation"}
+{"source": "a", "target": "Opulence", "predictions": "Extravagance"}
+{"source": "a", "target": "Inviting", "predictions": "Welcoming"}
+{"source": "a", "target": "Built to last", "predictions": "Enduring"}
+{"source": "a", "target": "Comfortable", "predictions": "Cozy"}
+{"source": "a", "target": "Portable", "predictions": "Compact"}
+{"source": "a", "target": "Easy to assemble", "predictions": "Simple assembly"}
+{"source": "a", "target": "Durability", "predictions": "Long-lasting"}
+{"source": "a", "target": "Quality", "predictions": "High-end"}
+{"source": "a", "target": "Lightweight", "predictions": "Easy to move"}
+{"source": "a", "target": "Modern design", "predictions": "Contemporary style"}
+{"source": "a", "target": "Quick setup", "predictions": "Instant assembly"}
+{"source": "a", "target": "Robustness", "predictions": "Durability"}
+{"source": "a", "target": "Sleek look", "predictions": "Stylish"}
+{"source": "a", "target": "Ergonomic", "predictions": "Supportive design"}
+{"source": "a", "target": "Modern simplicity", "predictions": "Contemporary style"}
+{"source": "a", "target": "Easy to carry", "predictions": "Mobile"}
+{"source": "a", "target": "Heavy-duty", "predictions": "Long-lasting"}
+{"source": "a", "target": "Fine finish", "predictions": "Quality craftsmanship"}
+{"source": "a", "target": "Padded", "predictions": "Ergonomic comfort"}
+{"source": "a", "target": "Solid build", "predictions": "Sturdy"}
+{"source": "a", "target": "Trendy", "predictions": "Modern design"}
+{"source": "a", "target": "Opulence", "predictions": "Luxury finish"}
+{"source": "a", "target": "Featherweight", "predictions": "Ultra-portable"}
+{"source": "a", "target": "Compact design", "predictions": "Space-efficient"}
+{"source": "a", "target": "Decorative", "predictions": "Aesthetic appeal"}
+{"source": "a", "target": "Transportable", "predictions": "Easy to move"}
+{"source": "a", "target": "Simple installation", "predictions": "Easy to assemble"}
+{"source": "a", "target": "High-end", "predictions": "Premium quality"}
+{"source": "a", "target": "Cozy", "predictions": "Soft"}
+{"source": "a", "target": "Hard-wearing", "predictions": "Durable"}
+{"source": "a", "target": "Minimalist design", "predictions": "Sleek style"}
+{"source": "a", "target": "Hassle-free setup", "predictions": "Quick installation"}
+{"source": "a", "target": "Built to last", "predictions": "Robust construction"}
+{"source": "a", "target": "Welcoming", "predictions": "Comfortable"}
+{"source": "a", "target": "Craftsmanship", "predictions": "Artisanal quality"}
+{"source": "a", "target": "Portable design", "predictions": "Lightweight"}
+{"source": "a", "target": "Wear resistance", "predictions": "Tough construction"}
+{"source": "a", "target": "Cushioned", "predictions": "Soft seating"}
+{"source": "a", "target": "Exquisite detailing", "predictions": "Fine finish"}
+{"source": "a", "target": "Supportive design", "predictions": "Ergonomically beneficial"}
+{"source": "a", "target": "Light as a feather", "predictions": "Extremely lightweight"}
+{"source": "a", "target": "Trendy", "predictions": "Fashion-forward"}
+{"source": "a", "target": "Style", "predictions": "Elegance"}
+{"source": "a", "target": "Comfort enhancing", "predictions": "Luxuriously comfortable"}
+{"source": "a", "target": "Space-saving", "predictions": "Functional design"}
+{"source": "a", "target": "No-tools assembly", "predictions": "Easy setup"}
+{"source": "a", "target": "Opulence", "predictions": "High-end appeal"}
+{"source": "a", "target": "Mobile", "predictions": "Transportable"}
+{"source": "a", "target": "Durable", "predictions": "Solid build"}
+{"source": "a", "target": "Modern simplicity", "predictions": "Streamlined design"}
+{"source": "a", "target": "Instant assembly", "predictions": "Hassle-free setup"}
+{"source": "a", "target": "Ultra-portable", "predictions": "Easy to carry"}
+{"source": "a", "target": "Heavy-duty", "predictions": "Solid construction"}
+{"source": "a", "target": "Fine finish", "predictions": "Polished look"}
+{"source": "a", "target": "Stylish", "predictions": "Fashionable"}
+{"source": "a", "target": "Ergonomically designed", "predictions": "Comfortable"}
+{"source": "a", "target": "Minimal space requirement", "predictions": "Compact"}
+{"source": "a", "target": "Extravagance", "predictions": "Luxury"}
+{"source": "a", "target": "Sturdy", "predictions": "Solid"}
+{"source": "a", "target": "Simple design", "predictions": "Minimalist"}
+{"source": "a", "target": "Adjustable", "predictions": "Flexible"}
+{"source": "a", "target": "Compact", "predictions": "Small-sized"}
+{"source": "a", "target": "Versatile", "predictions": "Multi-use"}
+{"source": "a", "target": "Easy cleaning", "predictions": "Low maintenance"}
+{"source": "a", "target": "Comfortable", "predictions": "Soft feel"}
+{"source": "a", "target": "Lightweight", "predictions": "Easy handling"}
+{"source": "a", "target": "Foldable", "predictions": "Collapsible"}
+{"source": "a", "target": "Durable finish", "predictions": "Resistant surface"}
+{"source": "a", "target": "Economical", "predictions": "Cost-effective"}
+{"source": "a", "target": "Spacious", "predictions": "Roomy"}
+{"source": "a", "target": "Chic", "predictions": "Stylish"}
+{"source": "a", "target": "Decorative detail", "predictions": "Ornamental"}
+{"source": "a", "target": "Sleek", "predictions": "Streamlined"}
+{"source": "a", "target": "Rustic", "predictions": "Traditional"}
+{"source": "a", "target": "Bright colors", "predictions": "Vibrant"}
+{"source": "a", "target": "Customizable", "predictions": "Tailor-made"}
+{"source": "a", "target": "Timeless", "predictions": "Classic"}
+{"source": "a", "target": "Heavy", "predictions": "Weighty"}
+{"source": "a", "target": "Stackable", "predictions": "Space-saving feature"}
+{"source": "a", "target": "Artisanal", "predictions": "Handcrafted"}
+{"source": "a", "target": "Water-resistant", "predictions": "Waterproof"}
+{"source": "a", "target": "Thermal insulation", "predictions": "Heat-resistant"}
+{"source": "a", "target": "Magnetic", "predictions": "Attachable features"}
+{"source": "a", "target": "Non-slip", "predictions": "Grip-enhancing"}
+{"source": "a", "target": "Fireproof", "predictions": "Flame-resistant"}
+{"source": "a", "target": "Soundproof", "predictions": "Noise-reducing"}
+{"source": "a", "target": "Soft edges", "predictions": "Rounded corners"}
+{"source": "a", "target": "High back", "predictions": "Tall backrest"}
+{"source": "a", "target": "Low-profile", "predictions": "Understated"}
+{"source": "a", "target": "Gloss finish", "predictions": "High shine"}
+{"source": "a", "target": "Matte finish", "predictions": "Non-reflective"}
+{"source": "a", "target": "Textured", "predictions": "Embossed"}
+{"source": "a", "target": "Machine washable", "predictions": "Easy to clean"}
+{"source": "a", "target": "UV protection", "predictions": "Sun-resistant"}
+{"source": "a", "target": "Kid-friendly", "predictions": "Safe for children"}
+{"source": "a", "target": "Hypoallergenic", "predictions": "Allergy-safe"}
+{"source": "a", "target": "Moisture-wicking", "predictions": "Quick-dry"}
+{"source": "a", "target": "Modular", "predictions": "Reconfigurable"}
+{"source": "a", "target": "Lightweight", "predictions": "Transportable"}
+{"source": "a", "target": "Natural materials", "predictions": "Organic"}
+{"source": "a", "target": "Smart furniture", "predictions": "Technology integrated"}
+{"source": "a", "target": "adjustable", "predictions": "modifiable"}
+{"source": "a", "target": "affordable price", "predictions": "reasonable price"}
+{"source": "a", "target": "affordable", "predictions": "cost-effective"}
+{"source": "a", "target": "ample storage", "predictions": "plentiful storage"}
+{"source": "a", "target": "attractive", "predictions": "appealing"}
+{"source": "a", "target": "beautiful", "predictions": "gorgeous"}
+{"source": "a", "target": "classic", "predictions": "timeless"}
+{"source": "a", "target": "color matches", "predictions": "color corresponds"}
+{"source": "a", "target": "comfortable", "predictions": "cozy"}
+{"source": "a", "target": "compact", "predictions": "space-saving"}
+{"source": "a", "target": "comprehensive", "predictions": "thorough"}
+{"source": "a", "target": "convenient", "predictions": "handy"}
+{"source": "a", "target": "customizable", "predictions": "adaptable"}
+{"source": "a", "target": "durable", "predictions": "long-lasting"}
+{"source": "a", "target": "dynamic", "predictions": "energetic"}
+{"source": "a", "target": "easy assembly", "predictions": "simple setup"}
+{"source": "a", "target": "easy installation", "predictions": "straightforward installation"}
+{"source": "a", "target": "easy to build", "predictions": "easy to assemble"}
+{"source": "a", "target": "easy to put together", "predictions": "simple to assemble"}
+{"source": "a", "target": "easy to use", "predictions": "user-friendly"}
+{"source": "a", "target": "eco-friendly", "predictions": "environmentally friendly"}
+{"source": "a", "target": "effective", "predictions": "efficient"}
+{"source": "a", "target": "elegant", "predictions": "graceful"}
+{"source": "a", "target": "essential", "predictions": "necessary"}
+{"source": "a", "target": "excellent", "predictions": "outstanding"}
+{"source": "a", "target": "exceptional", "predictions": "extraordinary"}
+{"source": "a", "target": "fantastic", "predictions": "wonderful"}
+{"source": "a", "target": "fast", "predictions": "quick"}
+{"source": "a", "target": "favorite product", "predictions": "preferred product"}
+{"source": "a", "target": "fits perfectly", "predictions": "perfect fit"}
+{"source": "a", "target": "fits well", "predictions": "fits nicely"}
+{"source": "a", "target": "flexible", "predictions": "adaptable"}
+{"source": "a", "target": "functional", "predictions": "useful"}
+{"source": "a", "target": "good quality", "predictions": "high quality"}
+{"source": "a", "target": "hangable over clothes rack", "predictions": "can be hung over clothes rack"}
+{"source": "a", "target": "heavy unit", "predictions": "substantial unit"}
+{"source": "a", "target": "helps hold extra stuff", "predictions": "increases storage capacity"}
+{"source": "a", "target": "high capacity", "predictions": "large capacity"}
+{"source": "a", "target": "high performance", "predictions": "high efficiency"}
+{"source": "a", "target": "highly recommend", "predictions": "strongly recommend"}
+{"source": "a", "target": "impeccable", "predictions": "flawless"}
+{"source": "a", "target": "innovative design", "predictions": "cutting-edge design"}
+{"source": "a", "target": "innovative", "predictions": "groundbreaking"}
+{"source": "a", "target": "intuitive", "predictions": "user-intuitive"}
+{"source": "a", "target": "lightweight", "predictions": "light"}
+{"source": "a", "target": "looks great", "predictions": "visually appealing"}
+{"source": "a", "target": "luxurious", "predictions": "opulent"}
+{"source": "a", "target": "many ways to organize", "predictions": "flexible organization options"}
+{"source": "a", "target": "meticulous", "predictions": "detailed"}
+{"source": "a", "target": "minimalist", "predictions": "minimal"}
+{"source": "a", "target": "modern look", "predictions": "contemporary look"}
+{"source": "a", "target": "neat design", "predictions": "streamlined design"}
+{"source": "a", "target": "optimal", "predictions": "ideal"}
+{"source": "a", "target": "perfect size", "predictions": "ideal size"}
+{"source": "a", "target": "powerful", "predictions": "strong"}
+{"source": "a", "target": "practical", "predictions": "functional"}
+{"source": "a", "target": "precise", "predictions": "accurate"}
+{"source": "a", "target": "reliable", "predictions": "dependable"}
+{"source": "a", "target": "robust", "predictions": "strong"}
+{"source": "a", "target": "satisfied", "predictions": "pleased"}
+{"source": "a", "target": "seamless", "predictions": "smooth"}
+{"source": "a", "target": "secure", "predictions": "safe"}
+{"source": "a", "target": "sleek design", "predictions": "polished design"}
+{"source": "a", "target": "sleek", "predictions": "smooth"}
+{"source": "a", "target": "solid pine construction", "predictions": "sturdy pine build"}
+{"source": "a", "target": "sophisticated", "predictions": "advanced"}
+{"source": "a", "target": "spacious", "predictions": "roomy"}
+{"source": "a", "target": "storage solution", "predictions": "storage option"}
+{"source": "a", "target": "streamlined", "predictions": "simplified"}
+{"source": "a", "target": "sturdy", "predictions": "robust"}
+{"source": "a", "target": "stylish", "predictions": "fashionable"}
+{"source": "a", "target": "super easy", "predictions": "extremely easy"}
+{"source": "a", "target": "superb", "predictions": "excellent"}
+{"source": "a", "target": "sustainable", "predictions": "renewable"}
+{"source": "a", "target": "top quality", "predictions": "premium quality"}
+{"source": "a", "target": "unique", "predictions": "distinctive"}
+{"source": "a", "target": "unsatisfied with the product", "predictions": "dissatisfied with the product"}
+{"source": "a", "target": "versatile", "predictions": "multipurpose"}
+{"source": "a", "target": "very sturdy", "predictions": "exceptionally sturdy"}
+{"source": "a", "target": "vibrant", "predictions": "bright"}
+{"source": "a", "target": "well made", "predictions": "well constructed"}
+{"source": "a", "target": "great price", "predictions": "great price point"}
+{"source": "a", "target": "easy to assemble", "predictions": "easy assembly"}
+{"source": "a", "target": "easy to assemble", "predictions": "easy to build"}
+{"source": "a", "target": "easy to assemble", "predictions": "fast to assemble"}
+{"source": "a", "target": "easy to assemble", "predictions": "easy to put together"}
+{"source": "a", "target": "easy to assemble", "predictions": "easy to install"}
+{"source": "a", "target": "quick to assemble", "predictions": "easy to install"}
+{"source": "a", "target": "Looks great", "predictions": "looks nice"}
+{"source": "a", "target": "expensive", "predictions": "High price"}
+{"source": "a", "target": "Beautiful", "predictions": "Looks good"}
+{"source": "a", "target": "beautiful", "predictions": "Looks nice"}
+{"source": "a", "target": "stylish", "predictions": "elegant"}
+{"source": "a", "target": "Good size", "predictions": "Perfect size"}
+{"source": "a", "target": "Makes room organized", "predictions": "Keeps things organized"}
+{"source": "a", "target": "Clear instructions", "predictions": "Easy to follow instructions"}
+{"source": "a", "target": "Wrong instructions", "predictions": "Confusing instructions"}
+{"source": "a", "target": "Clear instructions", "predictions": "Great instructions"}
+{"source": "a", "target": "Wrong instructions", "predictions": "Difficult instructions"}
+{"source": "a", "target": "Confusing instructions", "predictions": "Difficult instructions"}
+{"source": "a", "target": "Confusing instructions", "predictions": "Frustrating instructions"}
+{"source": "a", "target": "Wrong instructions", "predictions": "Incomplete instructions"}
+{"source": "a", "target": "Beautiful", "predictions": "Handsome"}
+{"source": "a", "target": "Looks good", "predictions": "Fits decor"}
+{"source": "a", "target": "Looks good", "predictions": "Cute"}
+{"source": "a", "target": "Hard to install", "predictions": "Difficult installation"}
+{"source": "a", "target": "Hard to install", "predictions": "Hard to assemble"}
+{"source": "a", "target": "Hard to assemble", "predictions": "Hard assembly"}
+{"source": "a", "target": "Hard to assemble", "predictions": "Difficult assembly"}
+{"source": "a", "target": "Looks good", "predictions": "Aesthetically pleasing"}
+{"source": "a", "target": "Sturdy", "predictions": "Well built"}
+{"source": "a", "target": "Well built", "predictions": "Well Constructed"}
+{"source": "a", "target": "Great value", "predictions": "Good price/quality ratio"}
+{"source": "a", "target": "Good price/quality ratio", "predictions": "Convenient"}
+{"source": "a", "target": "Convenient", "predictions": "Nice price"}
+{"source": "a", "target": "Nice price", "predictions": "Good price"}
+{"source": "a", "target": "Nice price", "predictions": "great price "}
+{"source": "a", "target": "Bad price/quality ratio", "predictions": "Overpriced"}
+{"source": "a", "target": "Bad price/quality ratio", "predictions": "Expensive pricing"}
+{"source": "a", "target": "Nice price", "predictions": "Inexpensive"}
+{"source": "a", "target": "Good price/quality ratio", "predictions": "Budget-friendly"}
+{"source": "a", "target": "Difficult assembly", "predictions": "Tricky assembly"}
+{"source": "a", "target": "Difficult assembly", "predictions": "Impossible to assemble"}
+{"source": "a", "target": "Looks bad", "predictions": "Looks horrible"}
+{"source": "a", "target": "Bad price/quality ratio", "predictions": "Cheaply made"}
+{"source": "a", "target": "fantastic", "predictions": "faboulous"}
+{"source": "a", "target": "ample storage", "predictions": "lot of space"}
+{"source": "a", "target": "ample storage", "predictions": "holds a lot"}
+{"source": "a", "target": "love it", "predictions": "happy with it"}
+{"source": "a", "target": "Looks good", "predictions": "Difficult installation"}
+{"source": "a", "target": "Sturdy", "predictions": "Cute"}
+{"source": "a", "target": "Hard to install", "predictions": "Sturdy"}
+{"source": "a", "target": "Hard to install", "predictions": "Hard to assemble"}
+{"source": "a", "target": "Beautiful", "predictions": "Hard assembly"}
+{"source": "a", "target": "versatile", "predictions": "Difficult assembly"}
+{"source": "a", "target": "Looks good", "predictions": "Aesthetically pleasing"}
+{"source": "a", "target": "Sturdy", "predictions": "Well built"}
+{"source": "a", "target": "Well built", "predictions": "Well Constructed"}
+{"source": "a", "target": "Good price/quality ratio", "predictions": "Convenient"}
+{"source": "a", "target": "Convenient", "predictions": "Nice price"}
+{"source": "a", "target": "Nice price", "predictions": "Expensive"}
+{"source": "a", "target": "versatile", "predictions": "great price "}
+{"source": "a", "target": "Bad look", "predictions": "Overpriced"}
+{"source": "a", "target": "Sturdy", "predictions": "Expensive pricing"}
+{"source": "a", "target": "Nice price", "predictions": "Durable"}
+{"source": "a", "target": "Good price/quality ratio", "predictions": "Budget-friendly"}
+{"source": "a", "target": "Difficult assembly", "predictions": "expensive"}
+{"source": "a", "target": "Lightweight", "predictions": "Impossible to assemble"}
+{"source": "a", "target": "Expensive", "predictions": "Looks horrible"}

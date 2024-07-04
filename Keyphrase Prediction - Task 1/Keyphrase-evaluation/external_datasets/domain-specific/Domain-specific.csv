@@ -1,0 +1,358 @@
+keyphrase1,keyphrase2,score
+easy to assemble,easy assembly,1.0
+quality,sturdiness,0.5
+durability,sturdiness,0.9
+easy to assemble,flexibility,0.3
+comfortable,ergonomic,0.8
+style,modern design,0.7
+portable,lightweight,0.75
+cost-effective,affordable,0.9
+space-saving,compact,0.9
+luxurious,premium quality,0.9
+antique,vintage,0.8
+weather-resistant,durable,0.7
+foldable,collapsible,1.0
+adjustable,customizable,0.6
+functional,practical,0.8
+sleek,streamlined,0.6
+rustic,traditional,0.7
+minimalist,simple design,0.9
+child-friendly,safe,0.5
+eco-friendly,sustainable,0.9
+multifunctional,versatile,0.8
+expandable,extendable,0.9
+ornate,decorative,0.8
+contemporary,modern,0.8
+robust,solid,0.85
+compact,space-efficient,0.9
+luxury,opulent,1.0
+sleek finish,polished,0.6
+traditional,classic,0.8
+handcrafted,artisanal,0.7
+budget-friendly,economical,1.0
+heavy-duty,durable,0.7
+plush,soft,0.6
+innovative design,cutting-edge,0.85
+lightweight,easy to move,0.8
+colorful,vibrant,0.7
+neutral tones,understated,0.7
+vintage charm,retro style,0.9
+ergonomic features,comfort design,0.8
+fire-resistant,fireproof,1.0
+modular,reconfigurable,0.85
+timeless,classic design,0.7
+cozy,comfortable,0.95
+minimal assembly required,easy setup,0.9
+stain-resistant,easy to clean,0.7
+sustainable materials,eco-conscious,0.8
+luxurious feel,plush comfort,0.7
+custom-made,bespoke,0.8
+wall-mounted,space-saving,0.7
+sophisticated,elegant,0.75
+practical,utilitarian,0.7
+convertible,multi-use,0.8
+industrial look,urban style,0.6
+soft padding,cushioned,0.8
+rust-resistant,durable finish,0.4
+shabby chic,vintage-inspired,0.7
+high-capacity,spacious,0.9
+pet-friendly,durable against scratches,0.8
+minimalist aesthetic,clean lines,0.8
+waterproof,weatherproof,0.9
+Sturdiness,Robustness,1.0
+Easy to assemble,Quick setup,1
+Comfortable,Padded,0.7
+Style,Aesthetic,0.95
+Modern design,Sleek look,0.85
+Portable,Easy to carry,1.0
+Lightweight,Featherweight,0.9
+Durability,Wear resistance,0.8
+Quality,Craftsmanship,0.75
+Ergonomic,Supportive,0.9
+Contemporary style,Trendy,0.7
+Compact,Space-saving,0.9
+Simple assembly,No-tools assembly,0.8
+High-end,Luxury,0.7
+Cozy,Snug,0.85
+Easy to move,Mobile,0.9
+Long-lasting,Durable,1.0
+Robustness,Solid build,0.8
+Quick setup,Instant assembly,1.0
+Padded,Cushioned,0.9
+Aesthetic,Decorative,0.7
+Sleek look,Minimalist design,0.8
+Easy to carry,Transportable,0.9
+Featherweight,Ultra-light,0.85
+Wear resistance,Toughness,0.85
+Craftsmanship,Fine finish,0.7
+Supportive,Comfort enhancing,0.85
+Trendy,Fashionable,0.8
+Space-saving,Compact design,0.9
+No-tools assembly,Hassle-free setup,0.85
+Luxury,Opulence,0.65
+Snug,Inviting,0.8
+Mobile,Portable design,0.9
+Durable,Built to last,1.0
+Solid build,Heavy-duty,0.75
+Instant assembly,Easy setup,1.0
+Cushioned,Soft,0.8
+Decorative,Stylish,0.8
+Minimalist design,Modern simplicity,0.85
+Transportable,Carry-friendly,0.9
+Ultra-light,Light as a feather,1.0
+Toughness,Hard-wearing,0.85
+Fine finish,Exquisite detailing,0.7
+Comfort enhancing,Ergonomically designed,0.9
+Fashionable,Chic,0.8
+Compact design,Minimal space requirement,0.85
+Hassle-free setup,Simple installation,0.85
+Opulence,Extravagance,0.6
+Inviting,Welcoming,0.8
+Built to last,Enduring,0.85
+Comfortable,Cozy,0.8
+Portable,Compact,0.6
+Easy to assemble,Simple assembly,1.0
+Durability,Long-lasting,1.0
+Quality,High-end,0.8
+Lightweight,Easy to move,0.8
+Modern design,Contemporary style,0.9
+Quick setup,Instant assembly,1.0
+Robustness,Durability,0.9
+Sleek look,Stylish,0.75
+Ergonomic,Supportive design,0.9
+Modern simplicity,Contemporary style,0.85
+Easy to carry,Mobile,0.8
+Heavy-duty,Long-lasting,0.85
+Fine finish,Quality craftsmanship,0.8
+Padded,Ergonomic comfort,0.7
+Solid build,Sturdy,0.95
+Trendy,Modern design,0.75
+Opulence,Luxury finish,0.7
+Featherweight,Ultra-portable,0.9
+Compact design,Space-efficient,1.0
+Decorative,Aesthetic appeal,0.7
+Transportable,Easy to move,0.9
+Simple installation,Easy to assemble,0.9
+High-end,Premium quality,0.65
+Cozy,Soft,0.6
+Hard-wearing,Durable,0.85
+Minimalist design,Sleek style,0.85
+Hassle-free setup,Quick installation,1.0
+Built to last,Robust construction,0.9
+Welcoming,Comfortable,0.8
+Craftsmanship,Artisanal quality,0.75
+Portable design,Lightweight,0.9
+Wear resistance,Tough construction,0.8
+Cushioned,Soft seating,0.9
+Exquisite detailing,Fine finish,0.75
+Supportive design,Ergonomically beneficial,0.9
+Light as a feather,Extremely lightweight,1.0
+Trendy,Fashion-forward,0.7
+Style,Elegance,0.85
+Comfort enhancing,Luxuriously comfortable,0.8
+Space-saving,Functional design,0.85
+No-tools assembly,Easy setup,0.85
+Opulence,High-end appeal,0.65
+Mobile,Transportable,0.9
+Durable,Solid build,0.9
+Modern simplicity,Streamlined design,0.85
+Instant assembly,Hassle-free setup,0.9
+Ultra-portable,Easy to carry,0.85
+Heavy-duty,Solid construction,0.8
+Fine finish,Polished look,0.75
+Stylish,Fashionable,0.8
+Ergonomically designed,Comfortable,0.9
+Minimal space requirement,Compact,0.85
+Extravagance,Luxury,0.6
+Sturdy,Solid,0.9
+Simple design,Minimalist,0.9
+Adjustable,Flexible,0.8
+Compact,Small-sized,0.9
+Versatile,Multi-use,0.8
+Easy cleaning,Low maintenance,0.7
+Comfortable,Soft feel,0.8
+Lightweight,Easy handling,0.7
+Foldable,Collapsible,0.9
+Durable finish,Resistant surface,0.8
+Economical,Cost-effective,0.9
+Spacious,Roomy,0.9
+Chic,Stylish,0.75
+Decorative detail,Ornamental,0.7
+Sleek,Streamlined,0.85
+Rustic,Traditional,0.8
+Bright colors,Vibrant,0.7
+Customizable,Tailor-made,0.75
+Timeless,Classic,0.85
+Heavy,Weighty,0.9
+Stackable,Space-saving feature,0.85
+Artisanal,Handcrafted,0.8
+Water-resistant,Waterproof,1.0
+Thermal insulation,Heat-resistant,0.9
+Magnetic,Attachable features,0.4
+Non-slip,Grip-enhancing,0.6
+Fireproof,Flame-resistant,1.0
+Soundproof,Noise-reducing,0.7
+Soft edges,Rounded corners,0.85
+High back,Tall backrest,0.75
+Low-profile,Understated,0.7
+Gloss finish,High shine,0.8
+Matte finish,Non-reflective,0.85
+Textured,Embossed,0.75
+Machine washable,Easy to clean,0.85
+UV protection,Sun-resistant,0.7
+Kid-friendly,Safe for children,0.85
+Hypoallergenic,Allergy-safe,0.85
+Moisture-wicking,Quick-dry,0.7
+Modular,Reconfigurable,0.85
+Lightweight,Transportable,0.75
+Natural materials,Organic,0.75
+Smart furniture,Technology integrated,0.85
+adjustable,modifiable
+affordable price,reasonable price
+affordable,cost-effective
+ample storage,plentiful storage
+attractive,appealing
+beautiful,gorgeous
+classic,timeless
+color matches,color corresponds
+comfortable,cozy
+compact,space-saving
+comprehensive,thorough
+convenient,handy
+customizable,adaptable
+durable,long-lasting
+dynamic,energetic
+easy assembly,simple setup
+easy installation,straightforward installation
+easy to build,easy to assemble
+easy to put together,simple to assemble
+easy to use,user-friendly
+eco-friendly,environmentally friendly
+effective,efficient
+elegant,graceful
+essential,necessary
+excellent,outstanding
+exceptional,extraordinary
+fantastic,wonderful
+fast,quick
+favorite product,preferred product
+fits perfectly,perfect fit
+fits well,fits nicely
+flexible,adaptable
+functional,useful
+good quality,high quality
+hangable over clothes rack,can be hung over clothes rack
+heavy unit,substantial unit
+helps hold extra stuff,increases storage capacity
+high capacity,large capacity
+high performance,high efficiency
+highly recommend,strongly recommend
+impeccable,flawless
+innovative design,cutting-edge design
+innovative,groundbreaking
+intuitive,user-intuitive
+lightweight,light
+looks great,visually appealing
+luxurious,opulent
+many ways to organize,flexible organization options
+meticulous,detailed
+minimalist,minimal
+modern look,contemporary look
+neat design,streamlined design
+optimal,ideal
+perfect size,ideal size
+powerful,strong
+practical,functional
+precise,accurate
+reliable,dependable
+robust,strong
+satisfied,pleased
+seamless,smooth
+secure,safe
+sleek design,polished design
+sleek,smooth
+solid pine construction,sturdy pine build
+sophisticated,advanced
+spacious,roomy
+storage solution,storage option
+streamlined,simplified
+sturdy,robust
+stylish,fashionable
+super easy,extremely easy
+superb,excellent
+sustainable,renewable
+top quality,premium quality
+unique,distinctive
+unsatisfied with the product,dissatisfied with the product
+versatile,multipurpose
+very sturdy,exceptionally sturdy
+vibrant,bright
+well made,well constructed
+great price,great price point
+easy to assemble,easy assembly
+easy to assemble,easy to build
+easy to assemble,fast to assemble
+easy to assemble,easy to put together
+easy to assemble,easy to install
+quick to assemble,easy to install
+Looks great,looks nice
+expensive,High price
+Beautiful,Looks good
+beautiful,Looks nice
+stylish,elegant
+Good size,Perfect size
+Makes room organized,Keeps things organized
+Clear instructions,Easy to follow instructions
+Wrong instructions,Confusing instructions
+Clear instructions,Great instructions
+Wrong instructions,Difficult instructions
+Confusing instructions,Difficult instructions
+Confusing instructions,Frustrating instructions
+Wrong instructions,Incomplete instructions
+Beautiful,Handsome
+Looks good,Fits decor
+Looks good,Cute
+Hard to install,Difficult installation
+Hard to install,Hard to assemble
+Hard to assemble,Hard assembly
+Hard to assemble,Difficult assembly
+Looks good,Aesthetically pleasing
+Sturdy,Well built
+Well built,Well Constructed
+Great value,Good price/quality ratio
+Good price/quality ratio,Convenient
+Convenient,Nice price
+Nice price,Good price
+Nice price,great price 
+Bad price/quality ratio,Overpriced
+Bad price/quality ratio,Expensive pricing
+Nice price,Inexpensive
+Good price/quality ratio,Budget-friendly
+Difficult assembly,Tricky assembly
+Difficult assembly,Impossible to assemble
+Looks bad,Looks horrible
+Bad price/quality ratio,Cheaply made
+fantastic,faboulous
+ample storage,lot of space
+ample storage,holds a lot
+love it,happy with it
+Looks good,Difficult installation
+Sturdy,Cute
+Hard to install,Sturdy
+Hard to install,Hard to assemble
+Beautiful,Hard assembly
+versatile,Difficult assembly
+Looks good,Aesthetically pleasing
+Sturdy,Well built
+Well built,Well Constructed
+Good price/quality ratio,Convenient
+Convenient,Nice price
+Nice price,Expensive
+versatile,great price 
+Bad look,Overpriced
+Sturdy,Expensive pricing
+Nice price,Durable
+Good price/quality ratio,Budget-friendly
+Difficult assembly,expensive
+Lightweight,Impossible to assemble
+Expensive,Looks horrible
