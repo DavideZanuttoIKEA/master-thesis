@@ -1,12 +1,10 @@
 import streamlit as st
 import pandas as pd
 
-# Load data from CSV files
 topics_df = pd.read_csv("artID+topics.csv", delimiter=';')
 reviews_df = pd.read_csv("final_topic_reviews_word080.csv", delimiter=',')
 images_df = pd.read_csv("articles_images.csv", delimiter=',')
 
-# Filter images_df to only include ArticleIDs present in topics_df
 valid_article_ids = topics_df['ArticleID'].unique()
 filtered_images_df = images_df[images_df['ArticleID'].isin(valid_article_ids)]
 
@@ -59,7 +57,6 @@ for i in range(start_idx, min(end_idx, len(image_data))):
         st.image(row['Image'], width=150, caption=f"Article ID: {row['ArticleID']}")
     index += 1
 
-# Add a double line separator
 st.markdown("""<hr style="height:9px;border-top:2px solid black;border-bottom:2px solid black;" />""", unsafe_allow_html=True)
 
 # Show selected article topics and allow selection of a topic to view reviews
@@ -89,7 +86,7 @@ if 'selected_article' in st.session_state and st.session_state.selected_article:
                 if '|' in review_text:
                     review_list = review_text.split('| ')
                 else:
-                    review_list = [review_text]  # Treat the entire string as one review if no delimiter
+                    review_list = [review_text]
                 for review in review_list:
                     st.write(review)
             else:

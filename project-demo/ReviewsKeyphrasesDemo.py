@@ -1,15 +1,12 @@
 import streamlit as st
 import pandas as pd
 
-# Load data from CSV files
 reviews_df = pd.read_csv("artID+reviews.csv", delimiter=';') 
 keyphrases_df = pd.read_csv("reviews+keyphrases.csv", delimiter=';')
 images_df = pd.read_csv("articles_images.csv", delimiter=',')
 
-# Merge reviews and keyphrases data
 merged_df = reviews_df.merge(keyphrases_df, on='Reviews')
 
-# Merge with images data
 full_df = merged_df.merge(images_df, on='ArticleID')
 
 # Display logo and title
@@ -20,7 +17,7 @@ st.title('Reviews and Keyphrases - Demo')
 
 # Setup for displaying multiple images with pagination
 image_data = full_df[['ArticleID', 'Image']].drop_duplicates().reset_index(drop=True)
-images_per_page = 6  # Number of images per page
+images_per_page = 6 
 total_pages = len(image_data) // images_per_page + (1 if len(image_data) % images_per_page > 0 else 0)
 
 # Initialize or get the current page from the session state
