@@ -11,7 +11,7 @@ The topic identification part explores the usage of Llama3-8B to identify the mo
 
 ## Usage
 
-The execution of these scripts may require csv files stored in my bucket `zanuttod-bucket` on Google Cloud Storage.
+The execution of these scripts may require csv files or other data stored in my bucket `zanuttod-bucket` on Google Cloud Storage.
 
 ### Keyphrase Prediction (Task 1)
 
@@ -29,23 +29,28 @@ The execution of these scripts may require csv files stored in my bucket `zanutt
 
 #### Fine-tuning
 - Navigate to `Keyphrase Prediction - Task 1/keyphrase-generation-finetuning/`
-- Use the various notebooks to fine-tune different models (Llama3, Gemma, Mistral) for keyphrase generation
+- Use the notebooks to fine-tune different models (Llama3, Gemma, Mistral) for keyphrase generation
 
 
 ### Topic Identification (Task 2)
 
+#### Clustering
+- The `Keyphrase-clustering/` subfolder contains various notebooks for keyphrase clustering and evaluation
+- Run `embedKeyphrases.ipynb` to prepare the embeddings of the keyphrases
+- Navigate to `hierarchical/` or `k-means/` based on which clustering method you want to use
+- Run the files inside the folder following the order, the output will be a csv file with the "core" (clustered) keyphrases
+
+
 #### Generation
 - Navigate to `Topic Identification - Task 2/Topic-generation/`
-- Use `Appearances&Sentiment.ipynb` for analyzing topic appearances and sentiment
-- `HighlightingTopics.ipynb` for topic highlighting
-- The `Keyphrase-clustering/` subfolder contains various notebooks for keyphrase clustering and evaluation
+- Choose between `Llama3_EvaluationTopics-Keyphrases`,  `Llama3_EvaluationTopics-Reviews` and `Llama3_EvaluationTopics-Complete` to generate topics with Llama3, these files include different inputs to the LLM
+- (For Demo) Run `HighlightingTopics.ipynb` to generate a csv file with the maximum 4 reviews per article that talk about a specific topic, and the part the mention the topic highlighted
 
 
 #### Evaluation
 - Navigate to `Topic Identification - Task 2/Topic-evaluation/`
-- Use `Evaluation.ipynb` for general evaluation
-- `GroundTruthCreation.ipynb` for creating ground truth data
-- `mean&std.ipynb` for statistical analysis
+- `GroundTruthCreation.ipynb` generates a first draft of ground truth data which has been then manually annotated
+- Run `Evaluation.ipynb` for complete evaluation of a file, results are saved in `evaluation_results.json` where topic correctness (exact-matching and embedding based) and topic diversity are listed
 
 
 ### Demo
