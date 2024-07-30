@@ -56,4 +56,4 @@ The execution of these scripts may require csv files stored in my bucket `zanutt
 
 ## Author
 
-Davide Zanutto - Data Science & AI Master thesis student at Eindhoven University of Technology and Politecnico di Milano
+Davide Zanutto -<br>Data Science & AI Master thesis student at Eindhoven University of Technology and Politecnico di Milano
