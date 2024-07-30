@@ -1,127 +1,141 @@
-# Thesis Project Readme
+# Keyphrase and Topic Identification Project
 
-## Project Overview
+## Project Description
 
-The thesis project comprises two main tasks: Keyphrase Generation and Topic Identification. 
-Keyphrase generation takes as input a list of reviews and generate keyphrases and sentiments for each of them choosing a model between Llama3, Mistral and Gemma.
-Topic identification uses an LLM (Llama3) to generate a list of topics for each article. The input to the LLM can be: reviews, keyphrases obtained by clustering, a combination of reviews and keyphrases. A post-processing step is then applied to merge the results from previous experiments.
+This project focuses on advanced natural language processing tasks, specifically keyphrase prediction and topic identification. It leverages state-of-the-art language models and machine learning techniques to extract meaningful information from text data.
 
-All these experiments have been run on Vertex AI with a GPU available, running these experiments with cpu will highly increase the computation time.
----
+### Key Features:
+1. **Keyphrase Prediction (Task 1)**: 
+   - Utilizes fine-tuned versions of cutting-edge language models like Llama3, LoRA, and Mistral.
+   - Implements both few-shot learning and full fine-tuning approaches.
+   - Includes comprehensive evaluation metrics and tools for assessing keyphrase quality.
 
-## How to reproduce
+2. **Topic Identification (Task 2)**:
+   - Employs clustering and classification techniques to identify main topics in text corpora.
+   - Features tools for visualizing topic distributions and highlighting key themes.
 
-1. Build the Docker image: 
-`docker build -t sample-thesis-project .`
+3. **Evaluation and Benchmarking**:
+   - Robust evaluation frameworks for both keyphrase prediction and topic identification tasks.
+   - Includes scripts for creating ground truth datasets and conducting meta-evaluations.
 
-2. Run the container: 
-`docker run -p 8888:8888 sample-thesis-project`
+4. **Demonstration Tools**:
+   - User-friendly demo applications to showcase the capabilities of both keyphrase extraction and topic identification on real-world text data.
 
-3. Look for the Jupyter Notebook URL in the console output. It will look something like this: 
-http://127.0.0.1:8888/?token='some_token'
+This project aims to provide researchers and practitioners with powerful tools for extracting structured information from unstructured text, facilitating applications in areas such as content analysis, information retrieval, and document summarization.
 
-4. Open the URL in a browser, here you can run the notebook files
+## Overview
 
-The order to run the notebooks are specified here below for both tasks.
+This project focuses on two main tasks:
+1. Keyphrase Prediction (Task 1)
+2. Topic Identification (Task 2)
 
-## Keyphrase Generation
+The project uses various machine learning models, including fine-tuned versions of Llama3, LoRA, and Mistral, to perform keyphrase extraction and topic identification on text data.
 
-### Steps to Generate Keyphrases
+## Project Structure
+.
+├── Keyphrase Prediction - Task 1
+│   ├── Keyphrase-evaluation
+│   │   ├── configs
+│   │   ├── correlations
+│   │   ├── embeddings
+│   │   ├── eval_results
+│   │   ├── external_datasets
+│   │   ├── metrics
+│   │   ├── model_outputs
+│   │   ├── run_evaluation.ipynb
+│   │   └── run_evaluation.py
+│   ├── Keyphrase-generation
+│   │   ├── FineTuned-Mistral7b.ipynb
+│   │   └── gemma-5shot.ipynb
+│   └── keyphrase-generation-finetuning
+│       ├── FineTuning-llama3.ipynb
+│       ├── FineTuning-LoRA-gemma.ipynb
+│       ├── FineTuning-LoRA-mistral.ipynb
+│       ├── Llama3-8b-1shot.ipynb
+│       ├── Llama3-8b-5shot.ipynb
+│       ├── llama3-finetuned.ipynb
+│       └── mistral_5shot.ipynb
+├── Topic Identification - Task 2
+│   ├── Topic-evaluation
+│   │   ├── Evaluation.ipynb
+│   │   ├── EvaluationForMetaEvaluation.ipynb
+│   │   ├── GroundTruthCreation.ipynb
+│   │   └── mean&std.ipynb
+│   └── Topic-generation
+│       ├── Appearances&Sentiment.ipynb
+│       ├── evaluation_results.json
+│       ├── fewShotExamples.ipynb
+│       ├── HighlightingTopics.ipynb
+│       ├── Keyphrase-clustering
+│       │   ├── Llama3_EvaluationTopics-Complete.ipynb
+│       │   ├── Llama3_EvaluationTopics-Keyphrases.ipynb
+│       │   ├── Llama3_EvaluationTopics-Reviews.ipynb
+│       │   ├── Mistral7B_EvaluationTopics.ipynb
+│       │   ├── NumberOfAppearances.ipynb
+│       │   └── postProcessing.ipynb
+├── project-demo
+│   ├── pycache
+│   ├── duplicates.py
+│   ├── ikea_logo.svg.png
+│   ├── ReviewsKeyphrasesDemo.py
+│   └── TopicsDemo.py
+├── README-1.md
+├── README.md
+└── requirements.txt
 
-1. **Choose a Notebook Based on LLM:**
-   - You can generate keyphrases by running one of the three notebooks provided. Select the notebook corresponding to the chosen Language Model (LLM):
-     - `gemma-5shot.ipynb`
-     - `Llama3-8b-5shot.ipynb`
-     - `mistral_5shot.ipynb`
+## Setup
 
-2. **Run the Selected Notebook:**
-   - Execute the chosen notebook to generate keyphrases. The results will be saved as CSV files in the `results` subfolder.
+1. Clone the repository:
+git clone [repository-url]
 
-### Evaluation Process
+2. Install the required dependencies:
+pip install -r requirements.txt
 
-1. **Navigate to KPEval:**
-   - Go to the `KPEval` directory.
+3. Set up the necessary environment variables (if any).
 
-2. **Modify the file name**
-   - Navigate to `run_evaluation.ipynb` and change the `file` variable with one between: `gemma-5shot`, `Llama3-8b-5shot`, `mistral_5shot`.
+## Usage
 
-3. **Run run_evaluation.ipynb:**
-   - Execute `run_evaluation.ipynb` to evaluate the generated keyphrases.
+### Keyphrase Prediction (Task 1)
 
-4. **See the results**
-   - The sentiment score will be showed in the console logs, while the similarity score are saved in `keyphrase-generation/KPEval/eval_results/sample/{model_name}`.
+#### Evaluation
+- Navigate to `Keyphrase Prediction - Task 1/Keyphrase-evaluation/`
+- Run `run_evaluation.ipynb` or `run_evaluation.py` to evaluate keyphrase prediction models
 
+#### Generation
+- Navigate to `Keyphrase Prediction - Task 1/Keyphrase-generation/`
+- Use `FineTuned-Mistral7b.ipynb` or `gemma-5shot.ipynb` for keyphrase generation
 
----
+#### Fine-tuning
+- Navigate to `Keyphrase Prediction - Task 1/keyphrase-generation-finetuning/`
+- Use the various notebooks to fine-tune different models (Llama3, LoRA, Mistral) for keyphrase generation
 
-## Topic Identification
+### Topic Identification (Task 2)
 
-### Steps to Generate Topics
+#### Evaluation
+- Navigate to `Topic Identification - Task 2/Topic-evaluation/`
+- Use `Evaluation.ipynb` for general evaluation
+- `GroundTruthCreation.ipynb` for creating ground truth data
+- `mean&std.ipynb` for statistical analysis
 
-1. **Choose a Notebook:**
-   - You can generate topics by running one of the three `TopicIdentification` notebooks. Each notebook uses different inputs:
-     - `TopicIdentification-Complete.ipynb`
-     - `TopicIdentification-Keyphrases.ipynb`
-     - `TopicIdentification-Reviews.ipynb`
+#### Generation
+- Navigate to `Topic Identification - Task 2/Topic-generation/`
+- Use `Appearances&Sentiment.ipynb` for analyzing topic appearances and sentiment
+- `HighlightingTopics.ipynb` for topic highlighting
+- The `Keyphrase-clustering/` subfolder contains various notebooks for keyphrase clustering and evaluation
 
-2. **Run the Selected Notebook:**
-   - Execute the chosen notebook to generate topics.
+### Demo
+- Navigate to `project-demo/`
+- Run `ReviewsKeyphrasesDemo.py` for a demo of the keyphrase prediction
+- Run `TopicsDemo.py` for a demo of the topic identification
 
-3. **Postprocessing:**
-   - Apply postprocessing by running `postProcessing.ipynb`.
+## Contributing
 
-### Evaluation Process
+[Include guidelines for contributing to the project]
 
-1. **Go to Evaluation.ipynb:**
-   - Go to the `Evaluation.ipynb` file in the `topic-identification` folder.
+## License
 
-2. **Change the filename**
-   - Change the filename in row 10 with one of the csv name in the `results` folder.
+[Specify the license under which this project is released]
 
-3. **Run Evaluation.ipynb:**
-   - Execute `evaluation.ipynb` to evaluate the generated topics.
+## Contact
 
----
-
-## Directory Structure
-
-The project directory structure is as follows:
-
-SAMPLE-THESIS-PROJECT/
-├── .conda/
-├── keyphrase-generation/
-│ ├── KPEval/
-│ │ ├── configs/
-│ │ ├── embedding/
-│ │ ├── eval_results/
-│ │ ├── keyphrase-generation/
-│ │ ├── metrics/
-│ │ ├── model_outputs/
-│ │ ├── .gitignore
-│ │ ├── 5shot_llama3.csv
-│ │ ├── createJson.ipynb
-│ │ ├── KeyphrasesGroundTruth.csv
-│ │ ├── run_evaluation.ipynb
-│ │ ├── run_evaluation.py
-│ │ ├── run_evaluation.sh
-│ ├── results/
-│ ├── gemma-5shot.ipynb
-│ ├── Llama3-8b-5shot.ipynb
-│ ├── mistral_5shot.ipynb
-├── topic-identification/
-│ ├── results/
-│ ├── 3Shot_Examples.csv
-│ ├── 3Shot_Reviews.csv
-│ ├── core_keyphrases_hierarchical.csv
-│ ├── core_keyphrases_kmeans.csv
-│ ├── evaluation_results.json
-│ ├── Evaluation.ipynb
-│ ├── postProcessing.ipynb
-│ ├── TopicGroundTruth.csv
-│ ├── TopicIdentification-Complete.ipynb
-│ ├── TopicIdentification-Keyphrases.ipynb
-│ ├── TopicIdentification-Reviews.ipynb
-├── Dockerfile
-├── environment.yml
-├── requirements.txt
-├── Sample-dataset.csv
+[Provide contact information or links for further inquiries]
