@@ -1,7 +1,0 @@
-Cluster 3: baskets hold shoes
-Cluster 4: Inexpensive option
-Cluster 1: New entryway look
-Cluster 2: doors/drawers hide stuff
-Cluster 5: works
-Cluster 7: Needs frame attachment
-Cluster 6: zero storage

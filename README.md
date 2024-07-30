@@ -4,61 +4,10 @@
 
 This project is composed of two parts. 
 
-The keyphrase generation part utilizes different Large Language Models (Llama3-8B, Gemma7B and Mistral7B) with few-shot learning and fine-tuning to generate keyphrases from a set of reviews. With each keyphrase, its related sentiment will be also generated. Sentiments will be a single word between Positive, Negative and Neutral. An evaluation method called KPEval will be used to evaluate those keyphrases against a manually annotated ground truth. For sentiment evaluation, a classic exact-matching technique has been used (comparing with ground truth).
+The keyphrase generation part utilizes different Large Language Models (Llama3-8B, Gemma-7B, and Mistral-7B) with few-shot learning and fine-tuning to generate keyphrases from a set of reviews. With each keyphrase, its related sentiment will be also generated. Sentiments will be a single word between Positive, Negative and Neutral. An evaluation method called KPEval will be used to evaluate those keyphrases against a manually annotated ground truth. For sentiment evaluation, a classic exact-matching technique has been used (comparing with ground truth).
 
-The topic identification parts explore the usage of Llama3-8B to identify the most discussed topics in a group of reviews. The experiments were done using different inputs to the LLM (only the reviews, only the keyphrases obtained by clustering and a combination of them). The clustering methods used to obtained keyphrases are K-means and Hierarchical clustering. Evaluation of topics is done on correctness and diversity. Specific embedding-based metrics have been designed to compute both of them.
+The topic identification part explores the usage of Llama3-8B to identify the most discussed topics in a group of reviews. The experiments were done using different inputs to the LLM (only the reviews, only the keyphrases obtained by clustering and a combination of them). The clustering methods used to obtained keyphrases are K-means and Hierarchical clustering. Evaluation of topics is done on correctness and diversity. Specific embedding-based metrics have been designed to compute both of them.
 
-## Project Structure
-.
-├── Keyphrase Prediction - Task 1
-│   ├── Keyphrase-evaluation
-│   │   ├── configs
-│   │   ├── correlations
-│   │   ├── embeddings
-│   │   ├── eval_results
-│   │   ├── external_datasets
-│   │   ├── metrics
-│   │   ├── model_outputs
-│   │   ├── run_evaluation.ipynb
-│   │   └── run_evaluation.py
-│   ├── Keyphrase-generation
-│   │   ├── FineTuned-Mistral7b.ipynb
-│   │   └── gemma-5shot.ipynb
-│   └── keyphrase-generation-finetuning
-│       ├── FineTuning-llama3.ipynb
-│       ├── FineTuning-LoRA-gemma.ipynb
-│       ├── FineTuning-LoRA-mistral.ipynb
-│       ├── Llama3-8b-1shot.ipynb
-│       ├── Llama3-8b-5shot.ipynb
-│       ├── llama3-finetuned.ipynb
-│       └── mistral_5shot.ipynb
-├── Topic Identification - Task 2
-│   ├── Topic-evaluation
-│   │   ├── Evaluation.ipynb
-│   │   ├── EvaluationForMetaEvaluation.ipynb
-│   │   ├── GroundTruthCreation.ipynb
-│   │   └── mean&std.ipynb
-│   └── Topic-generation
-│       ├── Appearances&Sentiment.ipynb
-│       ├── evaluation_results.json
-│       ├── fewShotExamples.ipynb
-│       ├── HighlightingTopics.ipynb
-│       ├── Keyphrase-clustering
-│       │   ├── Llama3_EvaluationTopics-Complete.ipynb
-│       │   ├── Llama3_EvaluationTopics-Keyphrases.ipynb
-│       │   ├── Llama3_EvaluationTopics-Reviews.ipynb
-│       │   ├── Mistral7B_EvaluationTopics.ipynb
-│       │   ├── NumberOfAppearances.ipynb
-│       │   └── postProcessing.ipynb
-├── project-demo
-│   ├── pycache
-│   ├── duplicates.py
-│   ├── ikea_logo.svg.png
-│   ├── ReviewsKeyphrasesDemo.py
-│   └── TopicsDemo.py
-├── README-1.md
-├── README.md
-└── requirements.txt
 
 ## Usage
 
@@ -104,3 +53,7 @@ The execution of these scripts may require csv files stored in my bucket `zanutt
 - Run `ReviewsKeyphrasesDemo.py` for a localhost demo of keyphrase prediction
 - Run `TopicsDemo.py` for a localhost demo of topic identification
 - This require csv files stored in my bucket `zanuttod-bucket` in the folder `project-demo`  
+
+## Author
+
+Davide Zanutto - Data Science & AI Master thesis student at Eindhoven University of Technology and Politecnico di Milano

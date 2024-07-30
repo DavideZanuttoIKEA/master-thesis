@@ -1,5 +1,0 @@
-Cluster 3: holds lots of books
-Cluster 1: Looks great
-Cluster 2: Good style
-Cluster 4: sturdy
-Cluster 5: larger display area
